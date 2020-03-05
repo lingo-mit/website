@@ -31,7 +31,7 @@ title: People
   </li>
   <li>
     <a href="https://apjacob.me/">
-    <img src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/people/profile/prof-pic-final.jpg?h=bdf35819&itok=Pp1EVGnl">
+    <img src="assets/images/apjacob.jpg">
     Athul Paul Jacob
     </a>
   </li>
