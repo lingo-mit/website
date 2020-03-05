@@ -20,7 +20,7 @@ title: People
   <li>
     <a href="http://www.ekinakyurek.me/"> 
     <img src="assets/images/ekin.jpg">
-    Ekin Akyurek
+    Ekin Akyürek
     </a>
   </li>
   <li>
