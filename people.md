@@ -19,7 +19,7 @@ title: People
 <ul class="people">
   <li>
     <a href="http://www.ekinakyurek.me/"> 
-    <img src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/people/profile/ppnew.jpg?h=29537b2d&itok=ai-8-nJN">
+    <img src="assets/images/ekin.jpg">
     Ekin Akyurek
     </a>
   </li>
