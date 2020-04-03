@@ -6,7 +6,7 @@ title: Papers
 ## 2019
 
 - [Unnatural language processing: bridging the gap between synthetic and natural
-  langauge data](https://alanamarzoev.github.io/pdfs/unnatural_language.pdf).
+  language data](https://alanamarzoev.github.io/pdfs/unnatural_language.pdf).
 
   Alana Marzoev and Jacob Andreas. NeurIPS Emergent Communication Workshop 2019.
 
