@@ -6,7 +6,7 @@ title: Papers
 ## 2020
 
 - [Good-Enough Compositional Data Augmentation](
-  https://arxiv.org/abs/1904.09545)
+  https://arxiv.org/abs/1904.09545).
 
   Jacob Andreas. ACL 2020.
 
