@@ -3,6 +3,13 @@ layout: default
 title: Papers
 ---
 
+## Preprints
+
+- [Unnatural language processing: bridging the gap between synthetic and natural
+  language data](https://arxiv.org/abs/2004.13645).
+
+  Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas. 
+
 ## 2020
 
 - [Good-Enough Compositional Data Augmentation](
@@ -11,12 +18,6 @@ title: Papers
   Jacob Andreas. ACL 2020.
 
 ## 2019
-
-- [Unnatural language processing: bridging the gap between synthetic and natural
-  language data](https://arxiv.org/abs/2004.13645).
-
-  Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas. 
-  NeurIPS Emergent Communication Workshop 2019.
 
 - [A survey of reinforcement learning informed by natural language](
   https://arxiv.org/abs/1906.03926).
