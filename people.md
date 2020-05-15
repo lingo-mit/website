@@ -43,6 +43,17 @@ title: People
   </li>
 </ul>
 
+## Friends & Visitors
+
+<ul class="people">
+  <li>
+    <a href="http://web.media.mit.edu/~echu/">
+    <img src="assets/images/echu.jpg">
+    Eric Chu
+    </a>
+  </li>
+</ul>
+
 ## Undergraduate Students
 
 <ul class="people">
