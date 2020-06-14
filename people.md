@@ -18,7 +18,7 @@ title: People
 
 <ul class="people">
   <li>
-    <a href="http://www.ekinakyurek.me/"> 
+    <a href="http://www.mit.edu/~akyurek"> 
     <img src="assets/images/ekin.jpg">
     Ekin Akyürek
     </a>
