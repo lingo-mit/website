@@ -75,9 +75,6 @@ title: People
     Joe O'Connor
   </li>
   <li>
-    Justin Yu
-  </li>
-  <li>
     Anthoy Bau
   </li>
 </ul>
