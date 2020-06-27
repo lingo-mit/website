@@ -52,9 +52,6 @@ title: People
     Eric Chu
     </a>
   </li>
-</ul>
-
-<ul class="people">
   <li>
     <a href="https://cs.stanford.edu/~muj/">
     Jesse Mu
