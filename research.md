@@ -5,6 +5,10 @@ title: Papers
 
 ## Preprints
 
+- [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
+
+  Jesse Mu and Jacob Andreas.
+
 - [Unnatural language processing: bridging the gap between synthetic and natural
   language data](https://arxiv.org/abs/2004.13645).
 

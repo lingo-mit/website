@@ -54,6 +54,20 @@ title: People
   </li>
 </ul>
 
+<ul class="people">
+  <li>
+    <a href="https://cs.stanford.edu/~muj/">
+    Jesse Mu
+    </a>
+  </li>
+
+  <li>
+    <a href="http://web.media.mit.edu/~echu/">
+    Cathy Wong
+    </a>
+  </li>
+</ul>
+
 ## Undergraduate Students
 
 <ul class="people">
