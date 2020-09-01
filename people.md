@@ -36,6 +36,12 @@ title: People
     </a>
   </li>
   <li>
+    <a href="https://belindal.github.io/">
+    <img src="assets/images/belinda.jpg">
+    Belinda Li
+    </a>
+  </li>
+  <li>
     <a href="https://alanamarzoev.com/">
     <img src="assets/images/alana.jpg">
     Alana Marzoev
