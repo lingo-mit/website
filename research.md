@@ -20,6 +20,7 @@ title: Papers
    understanding.](https://arxiv.org/abs/2003.05161)
 
   Laura Ruis, Jacob Andreas, Marco Baroni, Diane Bouchacourt and Brenden Lake.
+  NeurIPS 2020.
 
 - Natural language for program search and abstraction learning.
 
