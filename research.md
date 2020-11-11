@@ -5,6 +5,11 @@ title: Papers
 
 ## Preprints
 
+- [Learning to recombine and resample data for compositional
+  generalization](https://arxiv.org/abs/2010.03706).
+
+  Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas.
+
 - [Unnatural language processing: bridging the gap between synthetic and natural
   language data](https://arxiv.org/abs/2004.13645).
 
