@@ -60,12 +60,14 @@ title: People
   </li>
   <li>
     <a href="https://cs.stanford.edu/~muj/">
+    <img src="https://cs.stanford.edu/~muj/assets/images/bw.jpg">
     Jesse Mu
     </a>
   </li>
 
   <li>
-    <a href="http://web.media.mit.edu/~echu/">
+    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+    <img src="assets/images/cathy.png">
     Cathy Wong
     </a>
   </li>
