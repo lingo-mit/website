@@ -82,4 +82,7 @@ title: People
   <li>
     Anthoy Bau
   </li>
+  <li>
+    Nitya Parthasarathy
+  </li>
 </ul>
