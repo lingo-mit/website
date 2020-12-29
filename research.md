@@ -5,6 +5,12 @@ title: Papers
 
 ## Preprints
 
+- [Representing partial programs with blended abstract
+  semantics](https://arxiv.org/abs/2012.12964).
+
+  Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum,
+  Armando Solar-Lezama.
+
 - [Learning to recombine and resample data for compositional
   generalization](https://arxiv.org/abs/2010.03706).
 
