@@ -77,6 +77,7 @@ title: People
 
 <ul class="people">
   <li>
+    <img src="assets/images/joeoc.jpg">
     Joe O'Connor
   </li>
   <li>
