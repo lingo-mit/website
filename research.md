@@ -3,8 +3,6 @@ layout: default
 title: Papers
 ---
 
-## Preprints
-
 ## 2021
 
 - [Representing partial programs with blended abstract
