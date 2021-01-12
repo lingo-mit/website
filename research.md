@@ -5,21 +5,18 @@ title: Papers
 
 ## Preprints
 
+## 2021
+
 - [Representing partial programs with blended abstract
   semantics](https://arxiv.org/abs/2012.12964).
 
   Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum,
-  Armando Solar-Lezama.
+  Armando Solar-Lezama. ICLR 2021.
 
 - [Learning to recombine and resample data for compositional
   generalization](https://arxiv.org/abs/2010.03706).
 
-  Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas.
-
-- [Unnatural language processing: bridging the gap between synthetic and natural
-  language data](https://arxiv.org/abs/2004.13645).
-
-  Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas. 
+  Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas. ICLR 2021.
 
 ## 2020
 
@@ -42,6 +39,12 @@ title: Papers
   https://arxiv.org/abs/1904.09545).
 
   Jacob Andreas. ACL 2020.
+
+- [Unnatural language processing: bridging the gap between synthetic and natural
+  language data](https://arxiv.org/abs/2004.13645).
+
+  Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas.
+  NeurIPS workshop on Emergent Communication.
 
 ## 2019
 
