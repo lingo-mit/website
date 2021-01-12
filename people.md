@@ -3,18 +3,7 @@ layout: default
 title: People
 ---
 
-## Faculty
-
-<ul class="people">
-  <li>
-    <a href="https://web.mit.edu/jda/www/">
-      <img src="assets/images/jacob.jpg">
-      Jacob Andreas
-    </a>
-  </li>
-</ul>
-
-## Graduate Students
+## PhD Students
 
 <ul class="people">
   <li>
@@ -49,6 +38,26 @@ title: People
   </li>
 </ul>
 
+## MEng Students
+
+<ul class="people">
+  <li>
+    Anthoy Bau
+  </li>
+</ul>
+
+## SB students
+
+<ul class="people">
+  <li>
+    <img src="assets/images/joeoc.jpg">
+    Joe O'Connor
+  </li>
+  <li>
+    Nitya Parthasarathy
+  </li>
+</ul>
+
 ## Friends & Visitors
 
 <ul class="people">
@@ -70,20 +79,24 @@ title: People
     <img src="assets/images/cathy.png">
     Cathy Wong
     </a>
+
+  <li>
+    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+    <img src="https://maxwellnye.github.io/assets/images/biopic.jpg">
+    Max Nye
+    </a>
+  </li>
   </li>
 </ul>
 
-## Undergraduate Students
+## Faculty
 
 <ul class="people">
   <li>
-    <img src="assets/images/joeoc.jpg">
-    Joe O'Connor
-  </li>
-  <li>
-    Anthoy Bau
-  </li>
-  <li>
-    Nitya Parthasarathy
+    <a href="https://web.mit.edu/jda/www/">
+      <img src="assets/images/jacob.jpg">
+      Jacob Andreas
+    </a>
   </li>
 </ul>
+
