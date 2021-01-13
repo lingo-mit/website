@@ -81,7 +81,7 @@ title: People
     </a>
 
   <li>
-    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+    <a href="http://maxwellnye.github.io/">
     <img src="https://maxwellnye.github.io/assets/images/biopic.jpg">
     Max Nye
     </a>
