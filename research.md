@@ -5,6 +5,10 @@ title: Papers
 
 ## 2021
 
+- [Multitasking inhibits semantic drift].
+
+  Athul Paul Jacob, Mike Lewis and Jacob Andreas. NAACL 2021.
+
 - [Representing partial programs with blended abstract
   semantics](https://arxiv.org/abs/2012.12964).
 
