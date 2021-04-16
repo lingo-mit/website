@@ -5,7 +5,7 @@ title: Papers
 
 ## 2021
 
-- Multitasking inhibits semantic drift.
+- [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
 
   Athul Paul Jacob, Mike Lewis and Jacob Andreas. NAACL 2021.
 
