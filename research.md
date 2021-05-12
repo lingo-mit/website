@@ -5,6 +5,22 @@ title: Papers
 
 ## 2021
 
+- Neural language models learn implicit meaning representations from form alone.
+
+  Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
+
+- How much context information can transformer language models use?
+
+  Joe O'Connor and Jacob Andreas. ACL 2021.
+
+- Leveraging language for abstraction and program search.
+
+  Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas.
+
+- Lexicon learning for few-shot sequence modeling.
+
+  Ekin Aky&uuml;urek and Jacob Andreas. ACL 2021.
+
 - [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
 
   Athul Paul Jacob, Mike Lewis and Jacob Andreas. NAACL 2021.
