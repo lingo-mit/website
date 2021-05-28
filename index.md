@@ -9,4 +9,4 @@ for building systems that can learn from instructions, explain their decisions,
 and make human-like generalizations. Take a look at [who we are](people.html)
 and [what we're thinking about](research.html)!
 
-<img src="assets/images/lab_photo_small.jpg">
+<img src="assets/images/lab_photo_small.jpg" alt="Group photo">

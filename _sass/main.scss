@@ -19,12 +19,17 @@ h2:not(:first-child) {
   margin-top: 1em;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 li {
   margin-bottom: 1em;
 }
 
 li p {
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
 }
 
 #nav {
@@ -92,4 +97,20 @@ ul.people li {
 
 p {
   margin-bottom: 1em;
+  text-align: justify;
+}
+
+#content ul.paper-highlights {
+  padding-left: 11em;
+}
+
+#content ul.paper-highlights li {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+#content ul.paper-highlights li img {
+  float: left;
+  width: 10em;
+  margin-left: -11em;
 }

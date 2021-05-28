@@ -3,13 +3,96 @@ layout: default
 title: Papers
 ---
 
-## 2021
+## Research highlights
+
+<ul class="paper-highlights">
+
+<li>
+  <img src="assets/images/paper_teasers/state_probes.jpg" alt="Visualization:
+  language model representations can be directly manipulated to affect
+  the semantics of downstream generation.">
+
+  <p>
+  <b>Neural language models learn implicit representations of meaning from text alone.</b>
+  </p>
+
+  <p>
+  Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
+  </p>
+
+  <p>
+  Language models (trained to predict missing words in sentences and paragraphs)
+learn to build structured representations of the state of the world. These
+representations support reasoning about the consequences of actions (like mixing
+a beaker or unlocking a door with a key).  The organization of semantic
+information in language models bears striking resemblance to formal meaning
+representations like DRT and file change semantics from the linguistics
+literature, suggesting that it's possible to discover a surprising about how
+meaning works with nothing but text as training data.
+  </p>
+</li>
+
+<li>
+  <img src="assets/images/paper_teasers/laps.jpg" alt="Visualization: model
+  automatically aligns the word 'snowflake' to a program fragment that generates
+  images with k-fold radial symmetry.">
+
+  <p>
+  <b>Leveraging language for to learn program abstractions and search heuristics.</b>
+  </p>
+
+  <p>
+  Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
+  </p>
+
+  <p>
+  Can reading make machine learning models better at programming? We describe
+  how to generalize a recent Bayesian model for program synthesis to incorporate
+  text-based hints and heuristics, and show that even small amounts of side
+  information from language dramatically improves this model's ability to
+  discover
+  reusable abstractions for visual reasoning and programming by demonstration.
+  Natural language is a useful source of supervision even for problems that
+  don't involve language as input or output.
+  </p>
+</li>
+
+<li>
+  <img src="assets/images/paper_teasers/compexp.jpg" alt="Visualization: our
+  technique discovers neurons that recognize compositional concepts like '(water
+  or river) and (not blue)' and 'operating room or castle or bathroom'">
+
+  <p>
+  <b><a href="https://arxiv.org/abs/2006.14032">Compositional explanations of neurons</a>.</b>
+  </p>
+
+  <p>
+  Jesse Mu and Jacob Andreas. NeurIPS 2020.
+  </p>
+
+  <p>
+  We explain the behavior of deep network models by approximating each neuron
+  with an executable program or logical form. These compositional explanations
+  surface a number of surprising successes (image classifiers discover abstract
+  functional categories like "sports facility" without supervision) and sources
+  of brittleness (vision models easily confuse washing machines with viaducts
+  and cribs with fire escapes, and language processing models are easily tricked
+  by surprising combinations of pronouns with other words).
+  </p>
+</li>
+</ul>
+
+<div style="clear: both"></div>
+
+## Full paper list
+
+### 2021
 
 - Leveraging language for abstraction and program search.
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
-- Neural language models learn implicit meaning representations from form alone.
+- Neural language models learn approximate models of meaning from form alone.
 
   Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
 
@@ -19,7 +102,7 @@ title: Papers
 
 - Lexicon learning for few-shot sequence modeling.
 
-  Ekin Aky&uuml;urek and Jacob Andreas. ACL 2021.
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021.
 
 - [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
 
@@ -36,7 +119,7 @@ title: Papers
 
   Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas. ICLR 2021.
 
-## 2020
+### 2020
 
 - [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
 
@@ -47,11 +130,6 @@ title: Papers
 
   Laura Ruis, Jacob Andreas, Marco Baroni, Diane Bouchacourt and Brenden Lake.
   NeurIPS 2020.
-
-- Natural language for program search and abstraction learning.
-
-  Cathy Wong, Kevin Ellis, Jacob Andreas and Josh Tenenbaum. AAAI Symposium on
-  Conceptual Abstraction.
 
 - [Good-Enough Compositional Data Augmentation](
   https://arxiv.org/abs/1904.09545).
@@ -64,7 +142,7 @@ title: Papers
   Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas.
   NeurIPS workshop on Emergent Communication.
 
-## 2019
+### 2019
 
 - [A survey of reinforcement learning informed by natural language](
   https://arxiv.org/abs/1906.03926).
