@@ -38,7 +38,7 @@ meaning works with nothing but text as training data.
   images with k-fold radial symmetry.">
 
   <p>
-  <b>Leveraging language for to learn program abstractions and search heuristics.</b>
+  <b>Leveraging language to learn program abstractions and search heuristics.</b>
   </p>
 
   <p>
@@ -88,7 +88,7 @@ meaning works with nothing but text as training data.
 
 ### 2021
 
-- Leveraging language for abstraction and program search.
+- Leveraging language to learn program abstractions and search heuristics.
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
