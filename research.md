@@ -9,7 +9,7 @@ title: Papers
 
 <li>
   <p>
-  <b>Neural language models learn implicit representations of meaning from text alone.</b><br>
+  <b>Implicit representations of meaning in neural language models.</b><br>
   (paper coming soon!)
   </p>
 
@@ -97,7 +97,7 @@ that don't involve language as input or output.
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
-- Neural language models learn approximate models of meaning from form alone.
+- Implicit representations of meaning in neural language models.
 
   Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
 
