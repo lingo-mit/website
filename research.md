@@ -9,8 +9,7 @@ title: Papers
 
 <li>
   <p>
-  <b>Implicit representations of meaning in neural language models.</b><br>
-  (paper coming soon!)
+  <b><a href="https://arxiv.org/abs/2106.00737">Implicit representations of meaning in neural language models</a>.</b><br>
   </p>
 
   <p>
@@ -97,7 +96,7 @@ that don't involve language as input or output.
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
-- Implicit representations of meaning in neural language models.
+- [Implicit representations of meaning in neural language models.](https://arxiv.org/abs/2106.00737)
 
   Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
 
