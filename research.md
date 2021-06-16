@@ -104,7 +104,7 @@ that don't involve language as input or output.
 
   Joe O'Connor and Jacob Andreas. ACL 2021.
 
-- Lexicon learning for few-shot sequence modeling.
+- [Lexicon learning for few-shot sequence modeling.](https://arxiv.org/abs/2106.03993)
 
   Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021.
 
