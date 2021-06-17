@@ -42,6 +42,10 @@ title: People
 
 <ul class="people">
   <li>
+    <img src="assets/images/joeoc.jpg">
+    Joe O'Connor
+  </li>
+  <li>
     Anthoy Bau
   </li>
 </ul>
@@ -49,10 +53,6 @@ title: People
 ## SB students
 
 <ul class="people">
-  <li>
-    <img src="assets/images/joeoc.jpg">
-    Joe O'Connor
-  </li>
   <li>
     Nitya Parthasarathy
   </li>
