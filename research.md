@@ -100,7 +100,7 @@ that don't involve language as input or output.
 
   Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
 
-- [How much context information can transformer language models use?](https://arxiv.org/abs/2106.08367)
+- [What context features can transformer language models use?](https://arxiv.org/abs/2106.08367)
 
   Joe O'Connor and Jacob Andreas. ACL 2021.
 
