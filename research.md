@@ -34,8 +34,7 @@ about how meaning works with nothing but text as training data.
 
 <li>
   <p>
-  <b>Leveraging language to learn program abstractions and search heuristics.</b><br>
-  (paper coming soon!)
+  <b><a href="https://arxiv.org/abs/2106.11053">Leveraging language to learn program abstractions and search heuristics</a>.</b><br>
   </p>
 
   <p>
@@ -92,7 +91,7 @@ that don't involve language as input or output.
 
 ### 2021
 
-- Leveraging language to learn program abstractions and search heuristics.
+- [Leveraging language to learn program abstractions and search heuristics.](https://arxiv.org/abs/2106.11053)
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
