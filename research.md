@@ -91,6 +91,15 @@ that don't involve language as input or output.
 
 ### 2021
 
+- How do neural sequence models generalize? Local and global cues for
+  out-of-distribution prediction.
+
+  Anthony Bau and Jacob Andreas. EMNLP 2021.
+
+- The low-dimensional linear geometry of contextualized word representations.
+
+  Evan Hernandez and Jacob Andreas. CoNLL 2021.
+
 - [Leveraging language to learn program abstractions and search heuristics.](https://arxiv.org/abs/2106.11053)
 
   Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
