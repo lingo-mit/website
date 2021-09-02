@@ -91,7 +91,7 @@ that don't involve language as input or output.
 
 ### 2021
 
-- How do neural sequence models generalize? Local and global cues for
+- How do neural sequence models generalize? Local and global context cues for
   out-of-distribution prediction.
 
   Anthony Bau and Jacob Andreas. EMNLP 2021.
