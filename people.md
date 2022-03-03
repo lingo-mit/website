@@ -36,6 +36,12 @@ title: People
     Alana Marzoev
     </a>
   </li>
+  <li>
+    <a href="https://pratyushasharma.github.io/">
+    <img src="assets/images/pratyusha.jpg">
+    Pratyusha Sharma
+    </a>
+  </li>
 </ul>
 
 ## MEng Students
