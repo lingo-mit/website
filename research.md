@@ -3,6 +3,8 @@ layout: default
 title: Papers
 ---
 
+## Research themes
+
 ## Research highlights
 
 <ul class="paper-highlights">
@@ -47,7 +49,7 @@ about how meaning works with nothing but text as training data.
 
   <p>
   Can natural language enable better automated reasoning about programming
-languages? We describe
+  languages? We describe
   how to generalize a recent Bayesian model for program synthesis to incorporate
   text-based hints and heuristics, and show that even small amounts of side
   information from language dramatically improve this model's ability to
@@ -89,14 +91,32 @@ that don't involve language as input or output.
 
 ## Full paper list
 
+### 2022
+
+- [Skill induction and planning with latent language.](https://arxiv.org/abs/2110.01517)
+
+  Pratyusha Sharma, Antonio Torralba, and Jacob Andreas. ACL 2022.
+
+- [Natural Language Descriptions of Deep Visual Features.](https://arxiv.org/abs/2201.11114)
+
+  Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio
+  Torralba and Jacob Andreas. ICLR 2022 (<b>oral</b>).
+
+  Press: [MIT News](https://news.mit.edu/2022/explainable-machine-learning-0127).
+
+- [Subspace Regularizers for Few-Shot Class Incremental Learning.](https://arxiv.org/abs/2110.07059)
+
+  Afra Feyza Akyu&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas.
+  ICLR 2022.
+
 ### 2021
 
-- How do neural sequence models generalize? Local and global context cues for
-  out-of-distribution prediction.
+- [How do neural sequence models generalize? Local and global context cues for
+  out-of-distribution prediction.](https://arxiv.org/abs/2111.03108)
 
   Anthony Bau and Jacob Andreas. EMNLP 2021.
 
-- The low-dimensional linear geometry of contextualized word representations.
+- [The low-dimensional linear geometry of contextualized word representations.](https://arxiv.org/abs/2105.07109)
 
   Evan Hernandez and Jacob Andreas. CoNLL 2021.
 
@@ -135,7 +155,7 @@ that don't involve language as input or output.
 
 - [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
 
-  Jesse Mu and Jacob Andreas. NeurIPS 2020.
+  Jesse Mu and Jacob Andreas. NeurIPS 2020 (<b>oral</b>).
 
 - [A benchmark for systematic generalization in grounded language
    understanding.](https://arxiv.org/abs/2003.05161)
