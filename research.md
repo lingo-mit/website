@@ -93,6 +93,10 @@ that don't involve language as input or output.
 
 ### 2022
 
+- [Quantifying Adaptability in Pre-trained Language Models with 500 Tasks.](https://arxiv.org/abs/2112.03204)
+
+  Belinda Z. Li, Jane Yu, Madian Khabsa, Luke Zettlemoyer, Alon Halevy, Jacob Andreas. NAACL 2022.
+
 - [Skill induction and planning with latent language.](https://arxiv.org/abs/2110.01517)
 
   Pratyusha Sharma, Antonio Torralba, and Jacob Andreas. ACL 2022.
