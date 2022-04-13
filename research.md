@@ -92,6 +92,9 @@ that don't involve language as input or output.
 ## Full paper list
 
 ### 2022
+- [Correcting Robot Plans with Natural Language Feedback.](https://arxiv.org/abs/2204.05186)
+
+  Pratyusha Sharma, Balakumar Sundaralingam, Valts Blukis, Chris Paxton, Tucker Hermans, Antonio Torralba, Jacob Andreas, Dieter Fox. RSS 2022.
 
 - [Quantifying Adaptability in Pre-trained Language Models with 500 Tasks.](https://arxiv.org/abs/2112.03204)
 
