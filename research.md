@@ -82,7 +82,7 @@ that don't involve language as input or output.
   categories like "sports facility" without supervision) but also sources of
   brittleness (vision models easily confuse washing machines with viaducts and
   cribs with fire escapes, and language processing models are easily tricked by
-  surprising combinations of pronouns).  
+  surprising combinations of pronouns).
   </p>
 </li>
 </ul>
@@ -92,6 +92,14 @@ that don't involve language as input or output.
 ## Full paper list
 
 ### 2022
+- [Tracing Knowledge in Language Models Back to the Training Data.](https://arxiv.org/abs/2205.11482)
+
+  Ekin Akyürek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. Preprint.
+
+- [Compositionality as Lexical Symmetry.](https://arxiv.org/abs/2201.12926)
+
+  Ekin Akyürek, Jacob Andreas. Preprint.
+
 - [Correcting Robot Plans with Natural Language Feedback.](https://arxiv.org/abs/2204.05186)
 
   Pratyusha Sharma, Balakumar Sundaralingam, Valts Blukis, Chris Paxton, Tucker Hermans, Antonio Torralba, Jacob Andreas, Dieter Fox. RSS 2022.
