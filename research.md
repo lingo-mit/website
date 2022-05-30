@@ -11,6 +11,24 @@ title: Papers
 
 <li>
   <p>
+  <b><a href="https://arxiv.org/abs/2110.01517">Skill induction and planning with latent language</a>.</b><br>
+  </p>
+
+  <p>
+  Pratyusha Sharma, Antonio Torralba and Jacob Andreas. ACL 2022.
+  </p>
+
+  <img src="assets/images/paper_teasers/sl3.jpg" alt="Visualization:">
+
+  <p>
+  How can we train agents to plan & act in complex environments? 
+  We build models that “plan out loud”, using language as both a supervisory signal and internal representation. 
+  These agents improve by 100% over standard imitation learning approaches, while producing internal representations of their long-range plans and generalizing to new goals using knowledge learned from text.
+  </p>
+</li>
+
+<li>
+  <p>
   <b><a href="https://arxiv.org/abs/2106.00737">Implicit representations of meaning in neural language models</a>.</b><br>
   </p>
 
@@ -31,32 +49,6 @@ semantic information in language model embeddings bears striking resemblance to
 formal meaning representations like DRT and file change semantics from the
 linguistics literature, suggesting that it's possible to discover a little bit
 about how meaning works with nothing but text as training data.
-  </p>
-</li>
-
-<li>
-  <p>
-  <b><a href="https://arxiv.org/abs/2106.11053">Leveraging language to learn program abstractions and search heuristics</a>.</b><br>
-  </p>
-
-  <p>
-  Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
-  </p>
-
-  <img src="assets/images/paper_teasers/laps.jpg" alt="Visualization:
-  language model representations can be directly manipulated to affect
-  the semantics of downstream generation.">
-
-  <p>
-  Can natural language enable better automated reasoning about programming
-  languages? We describe
-  how to generalize a recent Bayesian model for program synthesis to incorporate
-  text-based hints and heuristics, and show that even small amounts of side
-  information from language dramatically improve this model's ability to
-  discover
-  reusable abstractions for visual reasoning and programming by demonstration.
-  Natural language is a useful source of supervision even for learning problems
-that don't involve language as input or output.
   </p>
 </li>
 
