@@ -3,8 +3,6 @@ layout: default
 title: Papers
 ---
 
-## Research themes
-
 ## Research highlights
 
 <ul class="paper-highlights">
