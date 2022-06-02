@@ -18,7 +18,7 @@ title: Papers
   Pratyusha Sharma, Antonio Torralba and Jacob Andreas. ACL 2022.
   </p>
 
-  <img src="assets/images/paper_teasers/sl3.jpg" alt="Visualization:">
+  <img src="assets/images/paper_teasers/sl3.gif" alt="Visualization:">
 
   <p>
   How can we train agents to plan & act in complex environments? 
