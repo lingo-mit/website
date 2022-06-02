@@ -23,7 +23,7 @@ title: Papers
   <p>
   How can we train agents to plan & act in complex environments? 
   We build models that “plan out loud”, using language as both a supervisory signal and internal representation. 
-  These agents improve by 100% over standard imitation learning approaches, while producing internal representations of their long-range plans and generalizing to new goals using knowledge learned from text.
+  These agents improve significantly over standard imitation learning approaches, while producing internal representations of their long-range plans and generalizing to new goals using knowledge learned from text.
   </p>
 </li>
 
