@@ -8,3 +8,7 @@ pages:
 
   - title: Research
     url: /research.html
+    
+  - title: Blog
+    url: /blog
+
