@@ -61,6 +61,7 @@ title: People
 <ul class="people">
   <li>
     Nitya Parthasarathy
+    <img src="assets/images/nitya_pic.jpeg">
   </li>
 </ul>
 
