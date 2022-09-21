@@ -37,6 +37,12 @@ title: People
     </a>
   </li>
   <li>
+    <a href="https://alexisjihyeross.github.io/">
+    <img src="assets/images/alexis.jpg">
+    Alexis Ross
+    </a>
+  </li> 
+  <li>
     <a href="https://pratyushasharma.github.io/">
     <img src="assets/images/pratyusha.jpg">
     Pratyusha Sharma
