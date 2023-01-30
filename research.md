@@ -82,6 +82,14 @@ about how meaning works with nothing but text as training data.
 ## Full paper list
 
 ### 2023
+- [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
+
+  Ekin Aky&uuml;rek, Dale Schuurmans, &ast;Jacob Andreas, &ast;Tengyu Ma, &ast;Denny Zhou. ICLR 2023. (<b>Oral</b>)
+
+- [Compositional Semantic Parsing with Large Language Models.](https://arxiv.org/abs/2209.15003)
+
+  Andrew Drozdov, Nathanael Schärli, Ekin Aky&uuml;rek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou. ICLR 2023.
+
 - [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.](https://arxiv.org/abs/2210.05492)
 
   Anton Bakhtin&ast;, David J Wu&ast;, Adam Lerer&ast;, Jonathan Gray&ast;, Athul Paul Jacob&ast;, Gabriele Farina&ast;, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
@@ -93,6 +101,10 @@ about how meaning works with nothing but text as training data.
   Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
 
 ### 2022  
+- [Pre-Trained Language Models for Interactive Decision-Making.](https://arxiv.org/abs/2202.01771)
+
+  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar, Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. Neurips 2022.
+
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
   FAIR, Anton Bakhtin&ast; , Noam Brown&ast;, Emily Dinan&ast;, Gabriele Farina, Colin Flaherty&ast;, Daniel Fried, Andrew Goff, Jonathan Gray&ast;, Hengyuan Hu&ast;, Athul Paul Jacob&ast;, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer&ast;, Mike Lewis&ast;, Alexander H. Miller&ast;, Sasha Mitts, Adithya Renduchintala&ast;, Stephen Roller, Dirk Rowe, Weiyan Shi&ast;, Joe Spisak, Alexander Wei, David Wu&ast;, Hugh Zhang&ast;, Markus Zijlstra. Science 2022.
@@ -113,7 +125,7 @@ about how meaning works with nothing but text as training data.
   
 - [Tracing Knowledge in Language Models Back to the Training Data.](https://arxiv.org/abs/2205.11482)
 
-  Ekin Aky&uuml;rek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. Preprint.
+  Ekin Aky&uuml;rek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. EMNLP Findings 2022, BlackBoxNLP 2022.
 
 - [Compositionality as Lexical Symmetry.](https://arxiv.org/abs/2201.12926)
 
@@ -144,8 +156,7 @@ about how meaning works with nothing but text as training data.
 
 - [Subspace Regularizers for Few-Shot Class Incremental Learning.](https://arxiv.org/abs/2110.07059)
 
-  Afra Feyza Akyu&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas.
-  ICLR 2022.
+  Afra Feyza Akyu&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas. ICLR 2022.
 
 ### 2021
 
@@ -172,7 +183,7 @@ about how meaning works with nothing but text as training data.
 
 - [Lexicon learning for few-shot sequence modeling.](https://arxiv.org/abs/2106.03993)
 
-  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021.
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021 (<b>oral</b>). 
 
 - [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
 
