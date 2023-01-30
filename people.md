@@ -67,20 +67,6 @@ title: People
   </li>
 </ul>
 
-## MEng Students
-
-<ul class="people">
-</ul>
-
-## SB students
-
-<ul class="people">
-  <li>
-    Nitya Parthasarathy
-    <img src="assets/images/nitya_pic.jpeg">
-  </li>
-</ul>
-
 ## Friends & Visitors
 
 <ul class="people">
