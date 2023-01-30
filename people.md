@@ -61,8 +61,8 @@ title: People
 <ul class="people">
   <li>
     <a href="https://anna-ivanova.net/">
-    Anna Ivanova 
     <img src="assets/images/anna.jpg">
+    Anna Ivanova 
     </a>
   </li>
 </ul>
