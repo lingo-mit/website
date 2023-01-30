@@ -81,14 +81,15 @@ about how meaning works with nothing but text as training data.
 
 ## Full paper list
 
+### 2023
+- [Top-Down Synthesis for Library Learning.](https://arxiv.org/abs/2211.16605)
+
+  Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
+
 ### 2022
 - [Language Models as Agent Models.](https://arxiv.org/abs/2212.01681)
   
   Jacob Andreas. EMNLP Findings 2022.
-
-- [Top-Down Synthesis for Library Learning.](https://arxiv.org/abs/2211.16605)
-
-  Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
 
 - [“Semantic projection” recovers rich human knowledge of multiple object features from word embeddings.](https://arxiv.org/abs/1802.01241)
   
@@ -100,11 +101,11 @@ about how meaning works with nothing but text as training data.
   
 - [Tracing Knowledge in Language Models Back to the Training Data.](https://arxiv.org/abs/2205.11482)
 
-  Ekin Akyürek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. Preprint.
+  Ekin Aky&uuml;rek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. Preprint.
 
 - [Compositionality as Lexical Symmetry.](https://arxiv.org/abs/2201.12926)
 
-  Ekin Akyürek, Jacob Andreas. Preprint.
+  Ekin Aky&uuml;rek, Jacob Andreas. Preprint.
 
 - [Correcting Robot Plans with Natural Language Feedback.](https://arxiv.org/abs/2204.05186)
 
@@ -143,7 +144,7 @@ about how meaning works with nothing but text as training data.
 
 - [Leveraging language to learn program abstractions and search heuristics.](https://arxiv.org/abs/2106.11053)
 
-  Catherine Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
+  Lionel Wong, Kevin Ellis, Joshua B. Tenenbaum and Jacob Andreas. ICML 2021.
 
 - [Implicit representations of meaning in neural language models.](https://arxiv.org/abs/2106.00737)
 
