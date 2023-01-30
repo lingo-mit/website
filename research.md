@@ -84,7 +84,7 @@ about how meaning works with nothing but text as training data.
 ### 2023
 - [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.](https://arxiv.org/abs/2210.05492)
 
-  Anton Bakhtin*, David J Wu*, Adam Lerer*, Jonathan Gray*, Athul Paul Jacob*, Gabriele Farina*, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
+  Anton Bakhtin&ast;, David J Wu&ast;, Adam Lerer&ast;, Jonathan Gray&ast;, Athul Paul Jacob&ast;, Gabriele Farina&ast;, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
   
   Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/)
   
@@ -95,7 +95,7 @@ about how meaning works with nothing but text as training data.
 ### 2022  
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
-  FAIR, Anton Bakhtin* , Noam Brown*, Emily Dinan*, Gabriele Farina, Colin Flaherty*, Daniel Fried, Andrew Goff, Jonathan Gray*, Hengyuan Hu*, Athul Paul Jacob*, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer*, Mike Lewis*, Alexander H. Miller*, Sasha Mitts, Adithya Renduchintala*, Stephen Roller, Dirk Rowe, Weiyan Shi*, Joe Spisak, Alexander Wei, David Wu*, Hugh Zhang*, Markus Zijlstra. Science 2022.
+  FAIR, Anton Bakhtin&ast; , Noam Brown&ast;, Emily Dinan&ast;, Gabriele Farina, Colin Flaherty&ast;, Daniel Fried, Andrew Goff, Jonathan Gray&ast;, Hengyuan Hu&ast;, Athul Paul Jacob&ast;, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer&ast;, Mike Lewis&ast;, Alexander H. Miller&ast;, Sasha Mitts, Adithya Renduchintala&ast;, Stephen Roller, Dirk Rowe, Weiyan Shi&ast;, Joe Spisak, Alexander Wei, David Wu&ast;, Hugh Zhang&ast;, Markus Zijlstra. Science 2022.
 
   Press: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=3d2ce522788b), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The New York Times](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The New Yorker](https://www.newyorker.com/culture/2022-in-review/eight-times-science-exceeded-expectations-in-2022), [VentureBeat](https://venturebeat.com/ai/is-ai-moving-too-fast-for-ethics-the-ai-beat/)
   
