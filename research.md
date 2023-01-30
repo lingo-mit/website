@@ -82,6 +82,22 @@ about how meaning works with nothing but text as training data.
 ## Full paper list
 
 ### 2022
+- [Language Models as Agent Models.](https://arxiv.org/abs/2212.01681)
+  
+  Jacob Andreas. EMNLP Findings 2022.
+
+- [Top-Down Synthesis for Library Learning.](https://arxiv.org/abs/2211.16605)
+
+  Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
+
+- [“Semantic projection” recovers rich human knowledge of multiple object features from word embeddings.](https://arxiv.org/abs/1802.01241)
+  
+  Gabriel Grand, Idan Blank, Francisco Pereira, and Evelina Fedorenko. Nature Human Behaviour 2022.
+
+- [Identifying concept libraries from language about object structure.](https://arxiv.org/abs/2205.05666) 
+
+  Lionel Wong, William P. McCarthy, Gabriel Grand, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
+  
 - [Tracing Knowledge in Language Models Back to the Training Data.](https://arxiv.org/abs/2205.11482)
 
   Ekin Akyürek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. Preprint.
