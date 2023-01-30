@@ -13,7 +13,7 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://evandez.com/about/">
+    <a href="https://evandez.com/">
     <img src="assets/images/evan.jpg">
     Evan Hernandez
     </a>
@@ -25,15 +25,27 @@ title: People
     </a>
   </li>
   <li>
+    <a href="https://pratyushasharma.github.io/">
+    <img src="assets/images/pratyusha.jpg">
+    Pratyusha Sharma
+    </a>
+  </li>
+  <li>
     <a href="https://belindal.github.io/">
     <img src="assets/images/belinda.jpg">
     Belinda Li
     </a>
   </li>
   <li>
-    <a href="https://alanamarzoev.com/">
-    <img src="assets/images/alana.jpg">
-    Alana Marzoev
+    <a href="https://www.gabegrand.com/">
+    <img src="assets/images/gabe.jpg">
+    Gabe Grand 
+    </a>
+  </li>
+  <li>
+    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+    <img src="assets/images/lio.png">
+    Lionel Wong
     </a>
   </li>
   <li>
@@ -42,10 +54,15 @@ title: People
     Alexis Ross
     </a>
   </li> 
+</ul>
+
+## Postdocs 
+
+<ul class="people">
   <li>
-    <a href="https://pratyushasharma.github.io/">
-    <img src="assets/images/pratyusha.jpg">
-    Pratyusha Sharma
+    <a href="https://anna-ivanova.net/">
+    Anna Ivanova 
+    <img src="assets/images/anna.jpg">
     </a>
   </li>
 </ul>
@@ -53,13 +70,6 @@ title: People
 ## MEng Students
 
 <ul class="people">
-  <li>
-    <img src="assets/images/joeoc.jpg">
-    Joe O'Connor
-  </li>
-  <li>
-    Anthoy Bau
-  </li>
 </ul>
 
 ## SB students
@@ -88,17 +98,10 @@ title: People
   </li>
 
   <li>
-    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
-    <img src="assets/images/cathy.png">
-    Cathy Wong
-    </a>
-
-  <li>
     <a href="http://maxwellnye.github.io/">
     <img src="https://maxwellnye.github.io/assets/images/biopic.jpg">
     Max Nye
     </a>
-  </li>
   </li>
 </ul>
 
@@ -113,3 +116,19 @@ title: People
   </li>
 </ul>
 
+## Alumni
+
+<ul>
+  <li>
+    Alana Marzoev (PhD)
+  </li>
+  <li>
+    Joe O'Connor (MEng)
+  </li>
+  <li>
+    Anthoy Bau (MEng)
+  </li>
+  <li>
+    Nitya Parthasarathy (SB)
+  </li>
+</ul>
