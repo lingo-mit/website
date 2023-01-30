@@ -65,6 +65,12 @@ title: People
     Anna Ivanova 
     </a>
   </li>
+  <li>
+    <a href="https://chengxuz.github.io/">
+    <img src="assets/images/chengxu.jpg">
+    Chengxu Zhang 
+    </a>
+  </li>
 </ul>
 
 ## Friends & Visitors
