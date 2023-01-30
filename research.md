@@ -82,11 +82,23 @@ about how meaning works with nothing but text as training data.
 ## Full paper list
 
 ### 2023
+- [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.](https://arxiv.org/abs/2210.05492)
+
+  Anton Bakhtin*, David J Wu*, Adam Lerer*, Jonathan Gray*, Athul Paul Jacob*, Gabriele Farina*, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
+  
+  Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/)
+  
 - [Top-Down Synthesis for Library Learning.](https://arxiv.org/abs/2211.16605)
 
   Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
 
-### 2022
+### 2022  
+- [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
+  
+  FAIR, Anton Bakhtin* , Noam Brown*, Emily Dinan*, Gabriele Farina, Colin Flaherty*, Daniel Fried, Andrew Goff, Jonathan Gray*, Hengyuan Hu*, Athul Paul Jacob*, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer*, Mike Lewis*, Alexander H. Miller*, Sasha Mitts, Adithya Renduchintala*, Stephen Roller, Dirk Rowe, Weiyan Shi*, Joe Spisak, Alexander Wei, David Wu*, Hugh Zhang*, Markus Zijlstra. Science 2022.
+
+  Press: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=3d2ce522788b), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The New York Times](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The New Yorker](https://www.newyorker.com/culture/2022-in-review/eight-times-science-exceeded-expectations-in-2022), [VentureBeat](https://venturebeat.com/ai/is-ai-moving-too-fast-for-ethics-the-ai-beat/)
+  
 - [Language Models as Agent Models.](https://arxiv.org/abs/2212.01681)
   
   Jacob Andreas. EMNLP Findings 2022.
@@ -106,6 +118,10 @@ about how meaning works with nothing but text as training data.
 - [Compositionality as Lexical Symmetry.](https://arxiv.org/abs/2201.12926)
 
   Ekin Aky&uuml;rek, Jacob Andreas. Preprint.
+  
+- [Modeling Strong and Human-Like Gameplay with KL-Regularized Search.](https://arxiv.org/abs/2112.07544)
+  
+  Athul Paul Jacob*, David J. Wu*, Gabriele Farina*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022. (<b>Spotlight</b>)
 
 - [Correcting Robot Plans with Natural Language Feedback.](https://arxiv.org/abs/2204.05186)
 
