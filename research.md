@@ -134,7 +134,7 @@ about how meaning works with nothing but text as training data.
 
 - [Identifying concept libraries from language about object structure.](https://arxiv.org/abs/2205.05666) 
 
-  Lionel Wong, William P. McCarthy, Gabriel Grand, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
+  Lionel Wong\*, William P. McCarthy\*, Gabriel Grand\*, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
   
 - [Tracing knowledge in language models back to the training data.](https://arxiv.org/abs/2205.11482)
 
