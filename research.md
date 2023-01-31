@@ -84,7 +84,7 @@ about how meaning works with nothing but text as training data.
 ### 2023
 - [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
 
-  Ekin Aky&uuml;rek, Dale Schuurmans, &ast;Jacob Andreas, &ast;Tengyu Ma, &ast;Denny Zhou. ICLR 2023. (<b>Oral</b>)
+  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023. (<b>Oral</b>)
 
 - [Compositional Semantic Parsing with Large Language Models.](https://arxiv.org/abs/2209.15003)
 
@@ -92,7 +92,7 @@ about how meaning works with nothing but text as training data.
 
 - [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.](https://arxiv.org/abs/2210.05492)
 
-  Anton Bakhtin&ast;, David J Wu&ast;, Adam Lerer&ast;, Jonathan Gray&ast;, Athul Paul Jacob&ast;, Gabriele Farina&ast;, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
+  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
   
   Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/)
   
@@ -107,7 +107,7 @@ about how meaning works with nothing but text as training data.
 
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
-  FAIR, Anton Bakhtin&ast; , Noam Brown&ast;, Emily Dinan&ast;, Gabriele Farina, Colin Flaherty&ast;, Daniel Fried, Andrew Goff, Jonathan Gray&ast;, Hengyuan Hu&ast;, Athul Paul Jacob&ast;, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer&ast;, Mike Lewis&ast;, Alexander H. Miller&ast;, Sasha Mitts, Adithya Renduchintala&ast;, Stephen Roller, Dirk Rowe, Weiyan Shi&ast;, Joe Spisak, Alexander Wei, David Wu&ast;, Hugh Zhang&ast;, Markus Zijlstra. Science 2022.
+  FAIR, Anton Bakhtin\* , Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flaherty\*, Daniel Fried, Andrew Goff, Jonathan Gray\*, Hengyuan Hu\*, Athul Paul Jacob\*, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer\*, Mike Lewis\*, Alexander H. Miller\*, Sasha Mitts, Adithya Renduchintala\*, Stephen Roller, Dirk Rowe, Weiyan Shi\*, Joe Spisak, Alexander Wei, David Wu\*, Hugh Zhang\*, Markus Zijlstra. Science 2022.
 
   Press: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=3d2ce522788b), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The New York Times](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The New Yorker](https://www.newyorker.com/culture/2022-in-review/eight-times-science-exceeded-expectations-in-2022), [VentureBeat](https://venturebeat.com/ai/is-ai-moving-too-fast-for-ethics-the-ai-beat/)
   
@@ -150,7 +150,7 @@ about how meaning works with nothing but text as training data.
 - [Natural Language Descriptions of Deep Visual Features.](https://arxiv.org/abs/2201.11114)
 
   Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio
-  Torralba and Jacob Andreas. ICLR 2022 (<b>oral</b>).
+  Torralba and Jacob Andreas. ICLR 2022 (<b>Oral</b>).
 
   Press: [MIT News](https://news.mit.edu/2022/explainable-machine-learning-0127).
 
@@ -204,7 +204,7 @@ about how meaning works with nothing but text as training data.
 
 - [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
 
-  Jesse Mu and Jacob Andreas. NeurIPS 2020 (<b>oral</b>).
+  Jesse Mu and Jacob Andreas. NeurIPS 2020 (<b>Oral</b>).
 
 - [A benchmark for systematic generalization in grounded language
    understanding.](https://arxiv.org/abs/2003.05161)
