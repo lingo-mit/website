@@ -82,6 +82,9 @@ about how meaning works with nothing but text as training data.
 ## Full paper list
 
 ### Preprints
+- [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies.](https://arxiv.org/abs/2211.12615)
+
+  Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis. Preprint
 
 - [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926)
 
