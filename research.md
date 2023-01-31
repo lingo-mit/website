@@ -115,7 +115,7 @@ about how meaning works with nothing but text as training data.
 
 - [Pre-trained language models for interactive decision-Making.](https://arxiv.org/abs/2202.01771)
 
-  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar, Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. NeurIPS 2022 (<b>Oral</b>).
+  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*. NeurIPS 2022 (<b>Oral</b>).
 
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
@@ -137,7 +137,7 @@ about how meaning works with nothing but text as training data.
   
 - [Modeling strong and human-Like gameplay with KL-regularized search.](https://arxiv.org/abs/2112.07544)
   
-  Athul Paul Jacob*, David J. Wu*, Gabriele Farina*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022 (<b>Spotlight</b>).
+  Athul Paul Jacob\*, David J. Wu\*, Gabriele Farina\*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022 (<b>Spotlight</b>).
 
 - [Correcting robot plans with natural language feedback.](https://arxiv.org/abs/2204.05186)
 
