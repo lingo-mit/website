@@ -81,65 +81,65 @@ about how meaning works with nothing but text as training data.
 
 ## Full paper list
 
+### Preprints
+
+- [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926)
+
+  Ekin Aky&uuml;rek, Jacob Andreas. Preprint.
+
 ### 2023
+
 - [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
 
-  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023. (<b>Oral</b>)
+  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Oral</b>).
 
-- [Compositional Semantic Parsing with Large Language Models.](https://arxiv.org/abs/2209.15003)
+- [Compositional semantic parsing with large language models.](https://arxiv.org/abs/2209.15003)
 
   Andrew Drozdov, Nathanael Schärli, Ekin Aky&uuml;rek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou. ICLR 2023.
 
-- [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.](https://arxiv.org/abs/2210.05492)
+- [Mastering the game of no-press Diplomacy via human-regularized reinforcement learning and planning.](https://arxiv.org/abs/2210.05492)
 
   Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
   
-  Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/)
+  Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/).
   
-- [Top-Down Synthesis for Library Learning.](https://arxiv.org/abs/2211.16605)
+- [Top-Down synthesis for library learning.](https://arxiv.org/abs/2211.16605)
 
   Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
 
 ### 2022  
-- [Pre-Trained Language Models for Interactive Decision-Making.](https://arxiv.org/abs/2202.01771)
 
-  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar, Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. Neurips 2022.
+- [Pre-trained language models for interactive decision-Making.](https://arxiv.org/abs/2202.01771)
+
+  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar, Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. NeurIPS 2022 (<b>Oral</b>).
 
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
   FAIR, Anton Bakhtin\* , Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flaherty\*, Daniel Fried, Andrew Goff, Jonathan Gray\*, Hengyuan Hu\*, Athul Paul Jacob\*, Mojtaba  Komeili, Karthik Konath, Minae Kwon, Adam Lerer\*, Mike Lewis\*, Alexander H. Miller\*, Sasha Mitts, Adithya Renduchintala\*, Stephen Roller, Dirk Rowe, Weiyan Shi\*, Joe Spisak, Alexander Wei, David Wu\*, Hugh Zhang\*, Markus Zijlstra. Science 2022.
 
-  Press: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=3d2ce522788b), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The New York Times](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The New Yorker](https://www.newyorker.com/culture/2022-in-review/eight-times-science-exceeded-expectations-in-2022), [VentureBeat](https://venturebeat.com/ai/is-ai-moving-too-fast-for-ethics-the-ai-beat/)
+  Press: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=3d2ce522788b), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The New York Times](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The New Yorker](https://www.newyorker.com/culture/2022-in-review/eight-times-science-exceeded-expectations-in-2022), [VentureBeat](https://venturebeat.com/ai/is-ai-moving-too-fast-for-ethics-the-ai-beat/).
   
-- [Language Models as Agent Models.](https://arxiv.org/abs/2212.01681)
+- [Language models as agent models.](https://arxiv.org/abs/2212.01681)
   
   Jacob Andreas. EMNLP Findings 2022.
-
-- [“Semantic projection” recovers rich human knowledge of multiple object features from word embeddings.](https://arxiv.org/abs/1802.01241)
-  
-  Gabriel Grand, Idan Blank, Francisco Pereira, and Evelina Fedorenko. Nature Human Behaviour 2022.
 
 - [Identifying concept libraries from language about object structure.](https://arxiv.org/abs/2205.05666) 
 
   Lionel Wong, William P. McCarthy, Gabriel Grand, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
   
-- [Tracing Knowledge in Language Models Back to the Training Data.](https://arxiv.org/abs/2205.11482)
+- [Tracing knowledge in language models back to the training data.](https://arxiv.org/abs/2205.11482)
 
   Ekin Aky&uuml;rek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. EMNLP Findings 2022, BlackBoxNLP 2022.
-
-- [Compositionality as Lexical Symmetry.](https://arxiv.org/abs/2201.12926)
-
-  Ekin Aky&uuml;rek, Jacob Andreas. Preprint.
   
-- [Modeling Strong and Human-Like Gameplay with KL-Regularized Search.](https://arxiv.org/abs/2112.07544)
+- [Modeling strong and human-Like gameplay with KL-regularized search.](https://arxiv.org/abs/2112.07544)
   
-  Athul Paul Jacob*, David J. Wu*, Gabriele Farina*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022. (<b>Spotlight</b>)
+  Athul Paul Jacob*, David J. Wu*, Gabriele Farina*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022 (<b>Spotlight</b>).
 
-- [Correcting Robot Plans with Natural Language Feedback.](https://arxiv.org/abs/2204.05186)
+- [Correcting robot plans with natural language feedback.](https://arxiv.org/abs/2204.05186)
 
   Pratyusha Sharma, Balakumar Sundaralingam, Valts Blukis, Chris Paxton, Tucker Hermans, Antonio Torralba, Jacob Andreas, Dieter Fox. RSS 2022.
 
-- [Quantifying Adaptability in Pre-trained Language Models with 500 Tasks.](https://arxiv.org/abs/2112.03204)
+- [Quantifying adaptability in pre-trained language models with 500 tasks.](https://arxiv.org/abs/2112.03204)
 
   Belinda Z. Li, Jane Yu, Madian Khabsa, Luke Zettlemoyer, Alon Halevy, Jacob Andreas. NAACL 2022.
 
@@ -147,14 +147,14 @@ about how meaning works with nothing but text as training data.
 
   Pratyusha Sharma, Antonio Torralba, and Jacob Andreas. ACL 2022.
 
-- [Natural Language Descriptions of Deep Visual Features.](https://arxiv.org/abs/2201.11114)
+- [Natural language descriptions of deep visual features.](https://arxiv.org/abs/2201.11114)
 
   Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio
   Torralba and Jacob Andreas. ICLR 2022 (<b>Oral</b>).
 
   Press: [MIT News](https://news.mit.edu/2022/explainable-machine-learning-0127).
 
-- [Subspace Regularizers for Few-Shot Class Incremental Learning.](https://arxiv.org/abs/2110.07059)
+- [Subspace regularizers for few-shot class incremental learning.](https://arxiv.org/abs/2110.07059)
 
   Afra Feyza Akyu&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas. ICLR 2022.
 
