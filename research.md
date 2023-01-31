@@ -85,7 +85,7 @@ about how meaning works with nothing but text as training data.
 
 - [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926)
 
-  Ekin Aky&uuml;rek, Jacob Andreas. Preprint.
+  Ekin Aky&uuml;rek and Jacob Andreas. Preprint.
 
 ### 2023
 
@@ -103,7 +103,7 @@ about how meaning works with nothing but text as training data.
 
 - [Mastering the game of no-press Diplomacy via human-regularized reinforcement learning and planning.](https://arxiv.org/abs/2210.05492)
 
-  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023. (<b>Oral</b>)
+  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023 (<b>Oral</b>).
   
   Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/).
   
@@ -187,7 +187,7 @@ about how meaning works with nothing but text as training data.
 
 - [Lexicon learning for few-shot sequence modeling.](https://arxiv.org/abs/2106.03993)
 
-  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021 (<b>oral</b>). 
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2021.
 
 - [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
 
