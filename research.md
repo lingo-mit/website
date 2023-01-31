@@ -93,6 +93,10 @@ about how meaning works with nothing but text as training data.
 
   Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Oral</b>).
 
+- [Characterizing intrinsic compositionality in transformers with tree projections.](https://arxiv.org/abs/2211.01288)
+
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Christopher Manning. ICLR 2023.
+
 - [Compositional semantic parsing with large language models.](https://arxiv.org/abs/2209.15003)
 
   Andrew Drozdov, Nathanael Schärli, Ekin Aky&uuml;rek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou. ICLR 2023.
