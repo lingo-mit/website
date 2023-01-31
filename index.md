@@ -14,7 +14,7 @@ and make human-like generalizations. Take a look at [who we are](people.html)
 and [what we're thinking about](research.html)!
 
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="70" unit="%" duration="7" number="1" %}
 
 <!-- <img src="assets/images/lab_photo_skiing.png" alt="Group photo"> -->
 <!-- <p style='text-align: right;'> Photo from our 2023 lab retreat in New Hampshire. </p> -->
