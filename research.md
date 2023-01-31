@@ -93,6 +93,10 @@ about how meaning works with nothing but text as training data.
 
   Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Oral</b>).
 
+- [Characterizing intrinsic compositionality in transformers with tree projections.](https://arxiv.org/abs/2211.01288)
+
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher D. Manning. ICLR 2023.
+
 - [Compositional semantic parsing with large language models.](https://arxiv.org/abs/2209.15003)
 
   Andrew Drozdov, Nathanael Schärli, Ekin Aky&uuml;rek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou. ICLR 2023.
@@ -112,6 +116,11 @@ about how meaning works with nothing but text as training data.
 - [Pre-trained language models for interactive decision-Making.](https://arxiv.org/abs/2202.01771)
 
   Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar, Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. NeurIPS 2022 (<b>Oral</b>).
+
+- [Toward understanding the communication in sperm whales.](https://www.sciencedirect.com/science/article/pii/S2589004222006642)
+
+  Jacob Andreas, Gašper Beguš, Michael M. Bronstein, Roee Diamant, Denley Delaney, Shane Gero, Shafi Goldwasser, David F. Gruber, Sarah de Haas, Peter Malkin, Nikolay Pavlov, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert J. Wood. iScience, Cell Press 2022.
+
 
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
