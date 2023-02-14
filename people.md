@@ -97,7 +97,7 @@ title: People
   </li>
 </ul>
 
-## MEng
+## MEngs
 <ul class="people">
   <li>
       <img src="assets/images/shinjini.png">
