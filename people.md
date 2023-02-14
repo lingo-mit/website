@@ -97,6 +97,14 @@ title: People
   </li>
 </ul>
 
+## MEng
+<ul class="people">
+  <li>
+      <img src="assets/images/shinjini.png">
+      Shinjini Ghosh
+  </li>
+</ul>
+
 ## Faculty
 
 <ul class="people">
