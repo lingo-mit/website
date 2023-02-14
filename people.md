@@ -73,6 +73,14 @@ title: People
   </li>
 </ul>
 
+## MEngs
+<ul class="people">
+  <li>
+      <img src="assets/images/shinjini.png">
+      Shinjini Ghosh
+  </li>
+</ul>
+
 ## Friends & Visitors
 
 <ul class="people">
@@ -94,14 +102,6 @@ title: People
     <img src="https://maxwellnye.github.io/assets/images/biopic.jpg">
     Max Nye
     </a>
-  </li>
-</ul>
-
-## MEngs
-<ul class="people">
-  <li>
-      <img src="assets/images/shinjini.png">
-      Shinjini Ghosh
   </li>
 </ul>
 
