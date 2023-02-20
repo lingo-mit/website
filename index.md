@@ -7,11 +7,11 @@ carousels:
     - image: /assets/images/lab_photo.jpg
 ---
 
-We're interested in what machine learning can do for language understanding and
-what language data can do for other machine learning problems. We develop tools
-for building systems that can learn from instructions, explain their decisions,
-and make human-like generalizations. Take a look at [who we are](people.html)
-and [what we're thinking about](research.html)!
+We're interested in machine learning for language understanding, and in language
+as a source of supervision for general machine learning. We develop techniques
+for learning from instructions, explaining decisions, and generalizing in
+human-like ways. Learn more about [who we are](people.html) and [what we're
+thinking about](research.html)!
 
 
 {% include carousel.html height="65" unit="%" duration="3" number="1" %}
