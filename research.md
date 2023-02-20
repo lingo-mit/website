@@ -3,9 +3,9 @@ layout: default
 title: Papers
 ---
 
+<!--
 ## Research highlights
 
-<!--
 <ul class="paper-highlights">
 
 <li>
@@ -80,8 +80,8 @@ about how meaning works with nothing but text as training data.
 
 <div style="clear: both"></div>
 
-## Full paper list
 -->
+## Papers
 
 ### Preprints
 
@@ -193,10 +193,18 @@ about how meaning works with nothing but text as training data.
 
 ### 2021
 
+- [Teachable reinforcement learning via advice distillation.](https://arxiv.org/abs/2203.11197)
+
+  Olivia Watkins, Trevor Darrell, Pieter Abbeel, Jacob Andreas and Abhishek Gupta.
+
 - [How do neural sequence models generalize? Local and global context cues for
   out-of-distribution prediction.](https://arxiv.org/abs/2111.03108)
 
   Anthony Bau and Jacob Andreas. EMNLP 2021.
+
+- [Toward a visual concept vocabulary for generative adversarial networks](https://arxiv.org/abs/2110.04292)
+
+  Sarah Schwettmann, Evan Hernandez, David Bau, Samuel Klein, Jacob Andreas, Antonio Torralba. ICCV 2021.
 
 - [The low-dimensional linear geometry of contextualized word representations.](https://arxiv.org/abs/2105.07109)
 
