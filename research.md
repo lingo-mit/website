@@ -130,7 +130,7 @@ about how meaning works with nothing but text as training data.
 
 ### 2022  
 
-- [Pre-trained language models for interactive decision-Making.](https://arxiv.org/abs/2202.01771)
+- [Pre-trained language models for interactive decision-making.](https://arxiv.org/abs/2202.01771)
 
   Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*. NeurIPS 2022 (<b>Oral</b>).
 
