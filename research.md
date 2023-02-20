@@ -107,6 +107,9 @@ about how meaning works with nothing but text as training data.
 
   Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Notable Top-5% Paper</b>).
 
+  Press: [Vice](https://www.vice.com/en/article/4axjnm/scientists-made-discovery-about-how-ai-actually-works),
+  [MIT News](https://news.mit.edu/2023/large-language-models-in-context-learning-0207).
+
 - [Characterizing intrinsic compositionality in transformers with tree projections.](https://arxiv.org/abs/2211.01288)
 
   Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Christopher Manning. ICLR 2023.
