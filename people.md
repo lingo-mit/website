@@ -105,6 +105,16 @@ title: People
   </li>
 </ul>
 
+## Admin
+
+<ul class="people">
+  <li>
+    <a href="https://www.linkedin.com/in/raquel-santana-264814191">
+      Raquel Santana
+    </a>
+  </li>
+</ul>
+
 ## Faculty
 
 <ul class="people">
