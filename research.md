@@ -5,6 +5,7 @@ title: Papers
 
 ## Research highlights
 
+<!--
 <ul class="paper-highlights">
 
 <li>
@@ -80,21 +81,31 @@ about how meaning works with nothing but text as training data.
 <div style="clear: both"></div>
 
 ## Full paper list
+-->
 
 ### Preprints
-- [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies.](https://arxiv.org/abs/2211.12615)
 
-  Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis. Preprint
+- [LaMPP: Language models as probabilistic priors for perception and action](https://arxiv.org/abs/2302.02801)
+
+  Belinda Z. Li, William Chen, Pratyusha Sharma and Jacob Andreas.
+
+- [Guiding pretraining in reinforcement learning with large language models.](https://arxiv.org/abs/2302.06692)
+
+  Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, and Jacob Andreas.
+
+- [AutoReply: Detecting nonsense in dialogue introspectively with discriminative replies.](https://arxiv.org/abs/2211.12615)
+
+  Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis.
 
 - [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926)
 
-  Ekin Aky&uuml;rek and Jacob Andreas. Preprint.
+  Ekin Aky&uuml;rek and Jacob Andreas.
 
 ### 2023
 
 - [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
 
-  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Oral</b>).
+  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Notable Top-5% Paper</b>).
 
 - [Characterizing intrinsic compositionality in transformers with tree projections.](https://arxiv.org/abs/2211.01288)
 
@@ -106,11 +117,11 @@ about how meaning works with nothing but text as training data.
 
 - [Mastering the game of no-press Diplomacy via human-regularized reinforcement learning and planning.](https://arxiv.org/abs/2210.05492)
 
-  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023 (<b>Oral</b>).
+  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023 (<b>Notable Top-5% Paper</b>).
   
   Press: [NewScientist](https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/).
   
-- [Top-Down synthesis for library learning.](https://arxiv.org/abs/2211.16605)
+- [Top-down synthesis for library learning.](https://arxiv.org/abs/2211.16605)
 
   Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama. POPL 2023.
 
@@ -119,11 +130,6 @@ about how meaning works with nothing but text as training data.
 - [Pre-trained language models for interactive decision-Making.](https://arxiv.org/abs/2202.01771)
 
   Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*. NeurIPS 2022 (<b>Oral</b>).
-
-- [Toward understanding the communication in sperm whales.](https://www.sciencedirect.com/science/article/pii/S2589004222006642)
-
-  Jacob Andreas, Gašper Beguš, Michael M. Bronstein, Roee Diamant, Denley Delaney, Shane Gero, Shafi Goldwasser, David F. Gruber, Sarah de Haas, Peter Malkin, Nikolay Pavlov, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert J. Wood. iScience, Cell Press 2022.
-
 
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning.](https://www.science.org/doi/10.1126/science.ade9097)
   
@@ -135,17 +141,29 @@ about how meaning works with nothing but text as training data.
   
   Jacob Andreas. EMNLP Findings 2022.
 
-- [Identifying concept libraries from language about object structure.](https://arxiv.org/abs/2205.05666) 
-
-  Lionel Wong\*, William P. McCarthy\*, Gabriel Grand\*, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
-  
 - [Tracing knowledge in language models back to the training data.](https://arxiv.org/abs/2205.11482)
 
   Ekin Aky&uuml;rek, Tolga Bolukbasi, Frederick Liu, Binbin Xiong, Ian Tenney, Jacob Andreas, Kelvin Guu. EMNLP Findings 2022, BlackBoxNLP 2022.
+
+- [Hierarchical phrase-based sequence-to-sequence learning.](https://arxiv.org/abs/2211.07906)
+ 
+  Bailin Wang, Ivan Titov, Jacob Andreas and Yoon Kim. EMNLP 2022.
   
 - [Modeling strong and human-Like gameplay with KL-regularized search.](https://arxiv.org/abs/2112.07544)
   
   Athul Paul Jacob\*, David J. Wu\*, Gabriele Farina\*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022 (<b>Spotlight</b>).
+
+- [Toward understanding the communication in sperm whales.](https://www.sciencedirect.com/science/article/pii/S2589004222006642)
+
+  Jacob Andreas, Gašper Beguš, Michael M. Bronstein, Roee Diamant, Denley
+  Delaney, Shane Gero, Shafi Goldwasser, David F. Gruber, Sarah de Haas, Peter
+  Malkin, Nikolay Pavlov, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha
+  Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert
+  J. Wood. iScience, Cell Press 2022.
+
+- [Identifying concept libraries from language about object structure.](https://arxiv.org/abs/2205.05666) 
+
+  Lionel Wong\*, William P. McCarthy\*, Gabriel Grand\*, Yoni Friedman, Joshua B. Tenenbaum, Jacob Andreas, Robert D. Hawkins, Judith E. Fan. CogSci 2022.
 
 - [Correcting robot plans with natural language feedback.](https://arxiv.org/abs/2204.05186)
 
