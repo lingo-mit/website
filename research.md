@@ -89,19 +89,32 @@ about how meaning works with nothing but text as training data.
 
   Belinda Z. Li, William Chen, Pratyusha Sharma and Jacob Andreas.
 
-- [Guiding pretraining in reinforcement learning with large language models.](https://arxiv.org/abs/2302.06692)
-
-  Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, and Jacob Andreas.
-
 - [AutoReply: Detecting nonsense in dialogue introspectively with discriminative replies.](https://arxiv.org/abs/2211.12615)
 
   Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis.
 
-- [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926)
-
-  Ekin Aky&uuml;rek and Jacob Andreas.
-
 ### 2023
+
+- [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
+
+  Ekin Akyürek and Jacob Andreas.  ACL, 2023.
+
+- Grokking of hierarchical structure in transformers.
+
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas\* and Chris Manning\*. ACL, 2023.
+
+- [Language modeling with latent situations.](https://arxiv.org/abs/2212.10012) 
+
+  Belinda Z. Li, Max Nye and Jacob Andreas. ACL Findings, 2023.
+
+- [Guiding pretraining in reinforcement learning with large language models.](https://arxiv.org/abs/2302.06692)
+
+  Yuqing Du*, Olivia Watkins*, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter
+  Abbeel, Abhishek Gupta and Jacob Andreas.  ICML, 2023.
+
+- [PromptBoosting: Text classification with langauge models in ten forward passes.](https://arxiv.org/abs/2212.0925://arxiv.org/abs/2212.09257) 
+
+  Bairu Hou, Joe O’Connor, Jacob Andreas, Yang Zhang and Shiyu Chang. ICML, 2023.
 
 - [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
 
@@ -217,6 +230,8 @@ about how meaning works with nothing but text as training data.
 - [Implicit representations of meaning in neural language models.](https://arxiv.org/abs/2106.00737)
 
   Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
+
+  Press: [Scientific American](https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/)
 
 - [What context features can transformer language models use?](https://arxiv.org/abs/2106.08367)
 
