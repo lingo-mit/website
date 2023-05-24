@@ -101,7 +101,7 @@ about how meaning works with nothing but text as training data.
 
 - Grokking of hierarchical structure in transformers.
 
-  Shikhar Murty, Pratyusha Sharma, Jacob Andreas\* and Chris Manning\*. ACL, 2023.
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Chris Manning. ACL, 2023.
 
 - [Language modeling with latent situations.](https://arxiv.org/abs/2212.10012) 
 
@@ -109,7 +109,7 @@ about how meaning works with nothing but text as training data.
 
 - [Guiding pretraining in reinforcement learning with large language models.](https://arxiv.org/abs/2302.06692)
 
-  Yuqing Du*, Olivia Watkins*, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter
+  Yuqing Du\*, Olivia Watkins\*, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter
   Abbeel, Abhishek Gupta and Jacob Andreas.  ICML, 2023.
 
 - [PromptBoosting: Text classification with langauge models in ten forward passes.](https://arxiv.org/abs/2212.0925://arxiv.org/abs/2212.09257) 
