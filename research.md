@@ -99,7 +99,7 @@ about how meaning works with nothing but text as training data.
 
   Ekin Akyürek and Jacob Andreas.  ACL, 2023.
 
-- Grokking of hierarchical structure in transformers.
+- [Grokking of hierarchical structure in vanilla transformers.](https://arxiv.org/abs/2305.18741)
 
   Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Chris Manning. ACL, 2023.
 
