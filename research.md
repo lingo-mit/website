@@ -97,7 +97,7 @@ about how meaning works with nothing but text as training data.
 
 - [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
 
-  Ekin Akyürek and Jacob Andreas.  ACL, 2023.
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023 (<bf>Lexical Semantics Area Award</b>).
 
 - [Grokking of hierarchical structure in vanilla transformers.](https://arxiv.org/abs/2305.18741)
 
@@ -202,7 +202,7 @@ about how meaning works with nothing but text as training data.
 
 - [Subspace regularizers for few-shot class incremental learning.](https://arxiv.org/abs/2110.07059)
 
-  Afra Feyza Akyu&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas. ICLR 2022.
+  Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Derry Wijaya and Jacob Andreas. ICLR 2022.
 
 ### 2021
 
