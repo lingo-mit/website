@@ -97,7 +97,7 @@ about how meaning works with nothing but text as training data.
 
 - [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
 
-  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023 (<bf>Lexical Semantics Area Award</b>).
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023 (<b>Lexical Semantics Area Award</b>).
 
 - [Grokking of hierarchical structure in vanilla transformers.](https://arxiv.org/abs/2305.18741)
 
