@@ -3,84 +3,6 @@ layout: default
 title: Papers
 ---
 
-<!--
-## Research highlights
-
-<ul class="paper-highlights">
-
-<li>
-  <p>
-  <b><a href="https://arxiv.org/abs/2110.01517">Skill induction and planning with latent language</a>.</b><br>
-  </p>
-
-  <p>
-  Pratyusha Sharma, Antonio Torralba and Jacob Andreas. ACL 2022.
-  </p>
-
-  <img src="assets/images/paper_teasers/sl3.gif" alt="Visualization:">
-
-  <p>
-  How can we train agents to plan & act in complex environments? 
-  We build models that “plan out loud”, using language as both a supervisory signal and internal representation. 
-  These agents improve significantly over standard imitation learning approaches, while producing internal representations of their long-range plans and generalizing to new goals using knowledge learned from text.
-  </p>
-</li>
-
-<li>
-  <p>
-  <b><a href="https://arxiv.org/abs/2106.00737">Implicit representations of meaning in neural language models</a>.</b><br>
-  </p>
-
-  <p>
-  Belinda Z. Li, Maxwell Nye and Jacob Andreas. ACL 2021.
-  </p>
-
-  <img src="assets/images/paper_teasers/state_probes.jpg" alt="Visualization:
-  language model representations can be directly manipulated to affect
-  the semantics of downstream generation.">
-
-  <p>
-  Language models (trained to predict missing words in sentences and paragraphs)
-learn to build structured representations of the state of the world. These
-representations support model-internal reasoning about the consequences of actions
-(like mixing a beaker or unlocking a door with a key).  The organization of
-semantic information in language model embeddings bears striking resemblance to
-formal meaning representations like DRT and file change semantics from the
-linguistics literature, suggesting that it's possible to discover a little bit
-about how meaning works with nothing but text as training data.
-  </p>
-</li>
-
-<li>
-  <p>
-  <b><a href="https://arxiv.org/abs/2006.14032">Compositional explanations of neurons</a>.</b>
-  </p>
-
-  <p>
-  Jesse Mu and Jacob Andreas. NeurIPS 2020.
-  </p>
-
-  <img src="assets/images/paper_teasers/compexp.jpg" alt="Visualization: our
-  technique discovers neurons that recognize compositional concepts like '(water
-  or river) and (not blue)' and 'operating room or castle or bathroom'">
-
-  <p>
-  We explain the behavior of deep network models by approximating each neuron
-  with an executable program or logical form. These compositional explanations
-  let us automatically quantify (aspects of) the complexity, interpretability, and
-  naturalness of learned abstractions in vision and language models.  They surface
-  a number of surprising successes (image classifiers discover abstract functional
-  categories like "sports facility" without supervision) but also sources of
-  brittleness (vision models easily confuse washing machines with viaducts and
-  cribs with fire escapes, and language processing models are easily tricked by
-  surprising combinations of pronouns).
-  </p>
-</li>
-</ul>
-
-<div style="clear: both"></div>
-
--->
 ## Papers
 
 ### Preprints
@@ -95,22 +17,36 @@ about how meaning works with nothing but text as training data.
 
 ### 2023
 
+- [The clock and the pizza: Two stories in mechanistic explanation of neural networks.](https://arxiv.org/abs/2306.17844)
+  Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
+  NeurIPS 2023 (<b>Oral</b>).
+
+- A function interpretation benchmark for evaluating interpretability methods.
+  Sarah Schwettmann, Tamar Rott Shaham, Joanna Materzynska, Neil Chowdhury, Shuang
+  Li, Jacob Andreas, David Bau, Antonio Torralba.
+  NeurIPS Datasets & Benchmarks 2023.
+
+- [Lexical semantic content, not syntactic structure, is the main contributor to
+  ANN-brain similarity of fMRI responses in the language network.](https://direct.mit.edu/nol/article/doi/10.1162/nol_a_00116/116784/Lexical-semantic-content-not-syntactic-structure)
+  Carina Kauf, Greta Tuckute, Roger Levy, Jacob Andreas and Evelina Fedorenko.
+  Neurobiology of Language 2023.
+
 - [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
 
   Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023 (<b>Lexical Semantics Area Award</b>).
 
 - [Grokking of hierarchical structure in vanilla transformers.](https://arxiv.org/abs/2305.18741)
 
-  Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Chris Manning. ACL, 2023.
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Chris Manning. ACL 2023.
 
 - [Language modeling with latent situations.](https://arxiv.org/abs/2212.10012) 
 
-  Belinda Z. Li, Max Nye and Jacob Andreas. ACL Findings, 2023.
+  Belinda Z. Li, Max Nye and Jacob Andreas. ACL Findings 2023.
 
 - [Guiding pretraining in reinforcement learning with large language models.](https://arxiv.org/abs/2302.06692)
 
   Yuqing Du\*, Olivia Watkins\*, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter
-  Abbeel, Abhishek Gupta and Jacob Andreas.  ICML, 2023.
+  Abbeel, Abhishek Gupta and Jacob Andreas.  ICML 2023.
 
 - [PromptBoosting: Text classification with langauge models in ten forward passes.](https://arxiv.org/abs/2212.0925://arxiv.org/abs/2212.09257) 
 
