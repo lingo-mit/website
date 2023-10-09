@@ -18,16 +18,19 @@ title: Papers
 ### 2023
 
 - [The clock and the pizza: Two stories in mechanistic explanation of neural networks.](https://arxiv.org/abs/2306.17844)
+
   Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
   NeurIPS 2023 (<b>Oral</b>).
 
 - A function interpretation benchmark for evaluating interpretability methods.
+
   Sarah Schwettmann, Tamar Rott Shaham, Joanna Materzynska, Neil Chowdhury, Shuang
   Li, Jacob Andreas, David Bau, Antonio Torralba.
   NeurIPS Datasets & Benchmarks 2023.
 
 - [Lexical semantic content, not syntactic structure, is the main contributor to
   ANN-brain similarity of fMRI responses in the language network.](https://direct.mit.edu/nol/article/doi/10.1162/nol_a_00116/116784/Lexical-semantic-content-not-syntactic-structure)
+
   Carina Kauf, Greta Tuckute, Roger Levy, Jacob Andreas and Evelina Fedorenko.
   Neurobiology of Language 2023.
 
