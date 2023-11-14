@@ -17,6 +17,16 @@ title: Papers
 
 ### 2023
 
+- [Pushdown Layers: Encoding Recursive Structure in Transformer Language Models.]{https://arxiv.org/abs/2310.19089}
+
+  Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher D. Manning.
+  EMNLP 2023.
+
+- [Pseudointelligence: A Unifying Framework for Language Model Evaluation.]{https://arxiv.org/abs/2310.12135}
+
+  Shikhar Murty\*, Orr Paradise\*, Pratyusha Sharma\*.
+  EMNLP Findings 2023.
+
 - [The clock and the pizza: Two stories in mechanistic explanation of neural networks.](https://arxiv.org/abs/2306.17844)
 
   Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
