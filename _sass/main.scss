@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Asap:400,400i,700');
 
+a {
+  color: #343969;
+}
+
+a:hover {
+  color: #171F69;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -117,6 +125,42 @@ p {
   float: right;
   width: 10em;
   margin-right: -12em;
+}
+
+a.code, a.project {
+  display: inline-block;
+  // color: #fff;
+  font-size: 80%;
+  padding: .2em;
+  margin: .2em;
+  margin-left: 0;
+  border: 1px solid;
+}
+
+a.code, a.project {
+  border-color: #343969;
+}
+
+span.press {
+  border: 1px solid #AB4F1E;
+  color: #AB4F1E;
+  display: inline-block;
+  padding: .2em;
+  font-size: 80%;
+}
+
+span.press a {
+  color: #AB4F1E;
+}
+
+
+#papers ~ ul li {
+  margin-bottom: 2em;
+}
+
+#papers ~ ul {
+  padding-left: 1em;
+  border-left: 2px solid #eee;
 }
 
 @media (max-width: 1024px) {

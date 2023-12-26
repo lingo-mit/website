@@ -60,24 +60,38 @@ title: People
 
 <ul class="people">
   <li>
-    <a href="https://anna-ivanova.net/">
-    <img src="assets/images/anna.jpg">
-    Anna Ivanova 
-    </a>
-  </li>
-  <li>
     <a href="https://chengxuz.github.io/">
     <img src="assets/images/chengxu.jpg">
     Chengxu Zhang 
     </a>
   </li>
+  <li>
+    <a href="https://ccolas.github.io">
+    <img src="assets/images/cedric.jpeg">
+    C&eacute;dric Colas
+    </a>
+  </li>
+  <li>
+    <a href="https://ktilana.wixsite.com/leshem-choshen">
+    <img src="assets/images/leshem.jpg">
+    Leshem Choshen
+    </a>
+  </li>
 </ul>
 
-## MEngs
+## MEngs and undergrads
 <ul class="people">
   <li>
-      <img src="assets/images/shinjini.png">
-      Shinjini Ghosh
+    Eric Zhang
+  </li>
+  <li>
+    Jason Lee
+  </li>
+  <li>
+    Ziqian Zhong
+  </li>
+  <li>
+    Rishab Parthasarathy
   </li>
 </ul>
 
@@ -85,22 +99,21 @@ title: People
 
 <ul class="people">
   <li>
-    <a href="http://web.media.mit.edu/~echu/">
-    <img src="assets/images/echu.jpg">
-    Eric Chu
+    <a href="https://feyzaakyurek.github.io/">
+    <img src="assets/images/feyza.jpeg">
+    Feyza Aky&uuml;rek
     </a>
   </li>
   <li>
-    <a href="https://cs.stanford.edu/~muj/">
-    <img src="https://cs.stanford.edu/~muj/assets/images/bw.jpg">
-    Jesse Mu
+    <a href="https://nightingal3.github.io/">
+    <img src="assets/images/emmy.jpeg">
+    Emmy Liu
     </a>
   </li>
-
   <li>
-    <a href="http://maxwellnye.github.io/">
-    <img src="https://maxwellnye.github.io/assets/images/biopic.jpg">
-    Max Nye
+    <a href="https://web.stanford.edu/~meghas/">
+    <img src="assets/images/megha.jpeg">
+    Megha Srivastava
     </a>
   </li>
 </ul>
@@ -109,8 +122,8 @@ title: People
 
 <ul class="people">
   <li>
-    <a href="https://www.linkedin.com/in/raquel-santana-264814191">
-      Raquel Santana
+    <a href="mailto:nhiggins@mit.edu">
+      Nathan Higgins
     </a>
   </li>
 </ul>
@@ -120,7 +133,7 @@ title: People
 <ul class="people">
   <li>
     <a href="https://web.mit.edu/jda/www/">
-      <img src="assets/images/jacob.jpg">
+      <img src="https://web.mit.edu/jda/www/figs/head_small.jpg">
       Jacob Andreas
     </a>
   </li>
@@ -128,17 +141,23 @@ title: People
 
 ## Alumni
 
-<ul>
-  <li>
-    Alana Marzoev (PhD)
-  </li>
-  <li>
-    Joe O'Connor (MEng)
-  </li>
-  <li>
-    Anthoy Bau (MEng)
-  </li>
-  <li>
-    Nitya Parthasarathy (SB)
-  </li>
+<ul class="people">
+<li>Anna Ivanova (Postdoc)</li>
+<li>William Chen (SB)</li>
+<li>Kevin Liu (MEng)</li>
+<li>Jiahai Feng (SB)</li>
+<li>Noa Korneev (SB)</li>
+<li>Matt Kearney (MEng)</li>
+<li>Shinjini Ghosh (MEng)</li>
+<li>Max Nye (PhD, BCS)</li>
+<li>Eric Chu (PhD, Media Lab)</li>
+<li>Josue Torres Fonseca (SB, Boise State)</li>
+<li>Nafisa Rashid (SB, Wellesley)</li>
+<li>Anjali Kantharuban (SB, UC Berkeley)</li>
+<li>Teona Bagashvili (SB, Allegheny College)</li>
+<li>Alana Marzoev (PhD)</li>
+<li>Joe O'Connor (MEng)</li>
+<li>Anthony Bau (MEng)</li>
+<li>Nitya Parthasarathy (SB)</li>
+<li>Jesse Mu (PhD, Stanford)</li>
 </ul>
