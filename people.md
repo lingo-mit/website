@@ -31,6 +31,12 @@ title: People
     </a>
   </li>
   <li>
+    <a href="https://andipeng.com/">
+    <img src="assets/images/andi.jpeg">
+    Andi Peng
+    </a>
+  </li>
+  <li>
     <a href="https://belindal.github.io/">
     <img src="assets/images/belinda.jpg">
     Belinda Li
