@@ -16,6 +16,15 @@ title: Papers
 
   Gabriel Grand, Lionel Wong, Matthew Bowers, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum and Jacob Andreas.
 
+- [Visual grounding helps learn word meanings in low-data regimes.](https://arxiv.org/abs/2310.13257)
+
+  Chengxu Zhuang, Evelina Fedorenko and Jacob Andreas.
+
+- [Decomposing uncertainty for large language models through input clarification
+  ensembling](https://arxiv.org/abs/2311.08718)
+
+  Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
+
 - [Learning with language-guided state abstractions.](https://social-intelligence-human-ai.github.io/docs/1.pdf)
 
   Andi Peng, Ilia Sucholutsky, Belinda Z. Li, Theodore Sumers, Thomas L.
