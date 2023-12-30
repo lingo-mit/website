@@ -139,6 +139,8 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Carina Kauf, Greta Tuckute, Roger Levy, Jacob Andreas and Evelina Fedorenko.
   Neurobiology of Language 2023.
 
+  <span class="press">Press: <a
+href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/">The Atlantic</a></span>
   <a class="code" href="https://github.com/carina-kauf/perturbed-neural-nlp">code</a>
 
 - [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
