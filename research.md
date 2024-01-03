@@ -131,6 +131,10 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Li, Jacob Andreas, David Bau, Antonio Torralba.
   NeurIPS Datasets & Benchmarks 2023.
 
+  <span class="press">
+    Press:
+    <a href="https://news.mit.edu/2024/ai-agents-help-explain-other-ai-systems-0103">MIT News</a>.
+  </span>
   <a class="project" href="https://multimodal-interpretability.csail.mit.edu/FIND-benchmark/">project page</a>
 
 - [Lexical semantic content, not syntactic structure, is the main contributor to
