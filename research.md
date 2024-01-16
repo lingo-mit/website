@@ -60,35 +60,35 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   search.](https://arxiv.org/abs/2310.09139)
 
   Athul Paul Jacob, Yikang Shen, Gabriele Farina and Jacob Andreas. 
-  ICLR 2023 (**Spotlight**, **NeurIPS R0-FoMo workshop best paper**).
+  ICLR 2024 (**Spotlight**, **NeurIPS R0-FoMo workshop best paper**).
 
 - [Linearity of relation decoding in transformer language
   models.](https://arxiv.org/abs/2308.09124)
 
   Evan Hernandez\*, Arnab Sen Sharma\*, Tal Haklay, Kevin Meng, Martin Wattenberg,
   Jacob Andreas, Yonatan Belinkov and David Bau. 
-  ICLR 2023 (**Spotlight**.)
+  ICLR 2024 (**Spotlight**.)
 
 - [Learning with language-guided state abstractions.](https://social-intelligence-human-ai.github.io/docs/1.pdf)
 
   Andi Peng, Ilia Sucholutsky, Belinda Z. Li, Theodore Sumers, Thomas L.
-  Griffiths, Jacob Andreas, Julie Shah. ICLR 2023.
+  Griffiths, Jacob Andreas and Julie Shah. ICLR 2024.
 
 - [Learning adaptive planning representations with natural language
   guidance](https://arxiv.org/abs/2312.08566)
 
   Lionel Wong, Jiayuan Mao, Pratyusha Sharma, Zachary S. Siegel, Jiahai Feng,
-  Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas. ICLR 2023.
+  Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas. ICLR 2024.
 
 - [Modeling boundedly rational agents with latent inference
   budgets.](https://arxiv.org/abs/2312.04030)
 
-  Athul Paul Jacob, Abhishek Gupta and Jacob Andreas. ICLR 2023.
+  Athul Paul Jacob, Abhishek Gupta and Jacob Andreas. ICLR 2024.
 
 - [LILO: Learning interpretable libraries by compressing and documenting code.](https://arxiv.org/abs/2310.19791)
 
   Gabriel Grand, Lionel Wong, Maddy Bowers, Theo X. Olausson, Muxin Liu, Joshua
-  B. Tenenbaum and Jacob Andreas. ICLR 2023.
+  B. Tenenbaum and Jacob Andreas. ICLR 2024.
 
 ### 2023
 
