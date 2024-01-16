@@ -12,10 +12,6 @@ title: Papers
 
   Athul Paul Jacob, Gabriele Farina and Jacob Andreas.
 
-- [LILO: Learning interpretable libraries by compressing and documenting code.](https://arxiv.org/abs/2310.19791)
-
-  Gabriel Grand, Lionel Wong, Matthew Bowers, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum and Jacob Andreas.
-
 - [Visual grounding helps learn word meanings in low-data regimes.](https://arxiv.org/abs/2310.13257)
 
   Chengxu Zhuang, Evelina Fedorenko and Jacob Andreas.
@@ -25,39 +21,12 @@ title: Papers
 
   Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
 
-- [Learning with language-guided state abstractions.](https://social-intelligence-human-ai.github.io/docs/1.pdf)
-
-  Andi Peng, Ilia Sucholutsky, Belinda Z. Li, Theodore Sumers, Thomas L.
-  Griffiths, Jacob Andreas, Julie Shah.
-
-- [Linearity of relation decoding in transformer language
-  models.](https://arxiv.org/abs/2308.09124)
-
-  Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg,
-  Jacob Andreas, Yonatan Belinkov and David Bau.
-
-- [Learning adaptive planning representations with natural language
-  guidance](https://arxiv.org/abs/2312.08566)
-
-  Lionel Wong, Jiayuan Mao, Pratyusha Sharma, Zachary S. Siegel, Jiahai Feng,
-  Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas.
-
-- [Modeling boundedly rational agents with latent inference
-  budgets.](https://arxiv.org/abs/2312.04030)
-
-  Athul Paul Jacob, Abhishek Gupta and Jacob Andreas.
-
 - [Eliciting human preferences with language models.](https://arxiv.org/abs/2310.11589)
 
   Belinda Z. Li, Alex Tamkin, Noah Goodman and Jacob Andreas.
 
   <span class="press">Press: <a
 href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-asking-us-questions/">VentureBeat</a></span>
-
-- [The consensus game: Language model generation via equilibrium
-  search.](https://arxiv.org/abs/2310.09139)
-
-  Athul Paul Jacob, Yikang Shen, Gabriele Farina and Jacob Andreas (**NeurIPS R0-FoMo workshop best paper**).
 
 - [Contextual and combinatorial structure in sperm whale
   vocalizations.](https://www.biorxiv.org/content/10.1101/2023.12.06.570484v1)
@@ -84,6 +53,42 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang,
   Najoung Kim, Jacob Andreas and Yoon Kim.
+
+### 2024
+
+- [The consensus game: Language model generation via equilibrium
+  search.](https://arxiv.org/abs/2310.09139)
+
+  Athul Paul Jacob, Yikang Shen, Gabriele Farina and Jacob Andreas. 
+  ICLR 2023 (**Spotlight**, **NeurIPS R0-FoMo workshop best paper**).
+
+- [Linearity of relation decoding in transformer language
+  models.](https://arxiv.org/abs/2308.09124)
+
+  Evan Hernandez\*, Arnab Sen Sharma\*, Tal Haklay, Kevin Meng, Martin Wattenberg,
+  Jacob Andreas, Yonatan Belinkov and David Bau. 
+  ICLR 2023 (**Spotlight**.)
+
+- [Learning with language-guided state abstractions.](https://social-intelligence-human-ai.github.io/docs/1.pdf)
+
+  Andi Peng, Ilia Sucholutsky, Belinda Z. Li, Theodore Sumers, Thomas L.
+  Griffiths, Jacob Andreas, Julie Shah. ICLR 2023.
+
+- [Learning adaptive planning representations with natural language
+  guidance](https://arxiv.org/abs/2312.08566)
+
+  Lionel Wong, Jiayuan Mao, Pratyusha Sharma, Zachary S. Siegel, Jiahai Feng,
+  Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas. ICLR 2023.
+
+- [Modeling boundedly rational agents with latent inference
+  budgets.](https://arxiv.org/abs/2312.04030)
+
+  Athul Paul Jacob, Abhishek Gupta and Jacob Andreas. ICLR 2023.
+
+- [LILO: Learning interpretable libraries by compressing and documenting code.](https://arxiv.org/abs/2310.19791)
+
+  Gabriel Grand, Lionel Wong, Maddy Bowers, Theo X. Olausson, Muxin Liu, Joshua
+  B. Tenenbaum and Jacob Andreas. ICLR 2023.
 
 ### 2023
 
