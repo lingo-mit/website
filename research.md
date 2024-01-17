@@ -7,7 +7,7 @@ title: Papers
 
 ### Preprints
 
-- [Deductive closure training of language models for coherence, accuracy, and updatability](https://arxiv.org/abs/2401.0857)
+- [Deductive closure training of language models for coherence, accuracy and updatability.](https://arxiv.org/abs/2401.08574)
 
   Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
 Jacob Andreas.
