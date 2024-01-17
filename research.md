@@ -7,6 +7,11 @@ title: Papers
 
 ### Preprints
 
+- [Deductive closure training of language models for coherence, accuracy, and updatability](https://arxiv.org/abs/2401.0857)
+
+  Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
+Jacob Andreas.
+
 - [Regularized conventions: Equilibrium computation as a model of pragmatic
   reasoning.](https://arxiv.org/abs/2311.09712)
 
