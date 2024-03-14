@@ -1,8 +1,4 @@
 /* @import url('https://fonts.googleapis.com/css?family=Asap:400,400i,700'); */
-@font-face {
-  font-family: "CSAIL_Ebony";
-  src: url("../fonts/CSAIL_Ebony-Regular.ttf");
-}
 
 @font-face {
   font-family: "CSAIL_Ebony";
@@ -12,16 +8,23 @@
 
 @font-face {
   font-family: "CSAIL_Ebony";
-  src: url("../fonts/CSAIL_Ebony-Italic.ttf");
+  src: url("../fonts/CSAIL_Ebony-RegularItalic.ttf");
   font-style: italic, oblique;
 }
 
+@font-face {
+  font-family: "CSAIL_Ebony";
+  src: url("../fonts/CSAIL_Ebony-Regular.ttf");
+}
+
 a {
-  color: #343969;
+  /*color: #343969;*/
+  color: #021a83;
 }
 
 a:hover {
-  color: #171F69;
+  /*color: #171F69;*/
+  color: #0433ff;
 }
 
 body {
