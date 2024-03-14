@@ -7,19 +7,16 @@ title: Papers
 
 ### Preprints
 
+- [Bayesian preference elicitation with language models](https://arxiv.org/abs/2403.05534)
+
+  Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
+  Tamkin, Belinda Z. Li.
+
+
 - [Deductive closure training of language models for coherence, accuracy and updatability.](https://arxiv.org/abs/2401.08574)
 
   Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
-Jacob Andreas.
-
-- [Regularized conventions: Equilibrium computation as a model of pragmatic
-  reasoning.](https://arxiv.org/abs/2311.09712)
-
-  Athul Paul Jacob, Gabriele Farina and Jacob Andreas.
-
-- [Visual grounding helps learn word meanings in low-data regimes.](https://arxiv.org/abs/2310.13257)
-
-  Chengxu Zhuang, Evelina Fedorenko and Jacob Andreas.
+  Jacob Andreas.
 
 - [Decomposing uncertainty for large language models through input clarification
   ensembling](https://arxiv.org/abs/2311.08718)
@@ -44,22 +41,37 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Evan Hernandez, Belinda Z. Li and Jacob Andreas.
 
-- [LaMPP: Language models as probabilistic priors for perception and action.](https://arxiv.org/abs/2302.02801)
-
-  Belinda Z. Li, William Chen, Pratyusha Sharma and Jacob Andreas.
-
 - [Language models trained on media diets can predict public
   opinion.](https://arxiv.org/abs/2303.16779)
 
   Eric Chu, Jacob Andreas, Stephen Ansolabehere and Deb Roy.
+
+
+### 2024
+
+- [Regularized conventions: Equilibrium computation as a model of pragmatic
+  reasoning.](https://arxiv.org/abs/2311.09712)
+
+  Athul Paul Jacob, Gabriele Farina and Jacob Andreas.
+  NAACL 2024.
+
+- [Visual grounding helps learn word meanings in low-data regimes.](https://arxiv.org/abs/2310.13257)
+
+  Chengxu Zhuang, Evelina Fedorenko and Jacob Andreas.
+  NAACL 2024.
+
 
 - [Reasoning or reciting? Exploring the capabilities and limitations of language
   models through counterfactual evaluations.](https://arxiv.org/abs/2307.02477)
 
   Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang,
   Najoung Kim, Jacob Andreas and Yoon Kim.
+  NAACL 2024.
 
-### 2024
+- [LaMPP: Language models as probabilistic priors for perception and action.](https://arxiv.org/abs/2302.02801)
+
+  Belinda Z. Li, William Chen, Pratyusha Sharma and Jacob Andreas. ICLR 2024
+  Workshop on Generative AI for Decision-Making.
 
 - [The consensus game: Language model generation via equilibrium
   search.](https://arxiv.org/abs/2310.09139)
