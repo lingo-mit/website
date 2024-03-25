@@ -12,7 +12,6 @@ title: Papers
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
   Tamkin, Belinda Z. Li.
 
-
 - [Deductive closure training of language models for coherence, accuracy and updatability.](https://arxiv.org/abs/2401.08574)
 
   Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
@@ -30,12 +29,6 @@ title: Papers
   <span class="press">Press: <a
 href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-asking-us-questions/">VentureBeat</a></span>
 
-- [Contextual and combinatorial structure in sperm whale
-  vocalizations.](https://www.biorxiv.org/content/10.1101/2023.12.06.570484v1)
-
-  Pratyusha Sharma, Shane Gero, Roger Payne, David F. Gruber, Daniela Rus,
-  Antonio Torralba, Jacob Andreas.
-
 - [Inspecting and editing knowledge representations in language
   models.](https://arxiv.org/abs/2304.00740)
 
@@ -48,6 +41,13 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 
 ### 2024
+
+- [Contextual and combinatorial structure in sperm whale
+  vocalizations.](https://www.biorxiv.org/content/10.1101/2023.12.06.570484v1)
+
+  Pratyusha Sharma, Shane Gero, Roger Payne, David F. Gruber, Daniela Rus\*,
+  Antonio Torralba\*, Jacob Andreas\*. Nature Communications (in press).
+
 
 - [Regularized conventions: Equilibrium computation as a model of pragmatic
   reasoning.](https://arxiv.org/abs/2311.09712)
