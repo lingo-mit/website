@@ -7,6 +7,10 @@ title: Papers
 
 ### Preprints
 
+- [In-context language learning: Architectures and algorithms](https://arxiv.org/abs/2401.12973)
+
+  Ekin Aky&uuml;rek, Bailin Wang, Yoon Kim and Jacob Andreas.
+
 - [Bayesian preference elicitation with language models](https://arxiv.org/abs/2403.05534)
 
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
