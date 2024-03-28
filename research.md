@@ -90,6 +90,12 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Jacob Andreas, Yonatan Belinkov and David Bau. 
   ICLR 2024 (**Spotlight**.)
 
+  <span class="press">
+    Press:
+    <a href="https://news.ycombinator.com/item?id=39852118">Hacker News</a>.
+    <a href="https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325">MIT News</a>.
+  </span>
+
 - [Learning with language-guided state abstractions.](https://social-intelligence-human-ai.github.io/docs/1.pdf)
 
   Andi Peng, Ilia Sucholutsky, Belinda Z. Li, Theodore Sumers, Thomas L.
