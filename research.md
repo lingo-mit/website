@@ -92,7 +92,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   <span class="press">
     Press:
-    <a href="https://news.ycombinator.com/item?id=39852118">Hacker News</a>.
+    <a href="https://news.ycombinator.com/item?id=39852118">Hacker News</a>,
     <a href="https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325">MIT News</a>.
   </span>
 
