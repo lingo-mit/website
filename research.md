@@ -46,6 +46,10 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 ### 2024
 
+- Learning Phonotactics from Linguistic Informants.
+
+  Canaan Breiss\*, Alexis Ross\*, Amani Maina-Kilaas, Roger P. Levy, Jacob Andreas. SCiL 2024.
+
 - [Contextual and combinatorial structure in sperm whale
   vocalizations.](https://www.biorxiv.org/content/10.1101/2023.12.06.570484v1)
 
@@ -57,7 +61,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   reasoning.](https://arxiv.org/abs/2311.09712)
 
   Athul Paul Jacob, Gabriele Farina and Jacob Andreas.
-  NAACL 2024.
+  NAACL 2024, SCiL 2024 abstract.
 
 - [Visual grounding helps learn word meanings in low-data regimes.](https://arxiv.org/abs/2310.13257)
 
