@@ -46,7 +46,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 ### 2024
 
-- Learning Phonotactics from Linguistic Informants.
+- [Learning phonotactics from linguistic informants.](https://lingbuzz.net/lingbuzz/007903)
 
   Canaan Breiss\*, Alexis Ross\*, Amani Maina-Kilaas, Roger P. Levy, Jacob Andreas. SCiL 2024.
 
@@ -158,6 +158,12 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
   NeurIPS 2023 (<b>Oral</b>).
+
+  <span class="press">
+    Press:
+    <a href="https://www.quantamagazine.org/how-do-machines-grok-data-20240412/">Quanta</a>
+  </span>
+
 
   <a class="code" href="https://github.com/fjzzq2002/pizza">code</a>
 
