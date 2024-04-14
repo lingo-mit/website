@@ -94,7 +94,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Evan Hernandez\*, Arnab Sen Sharma\*, Tal Haklay, Kevin Meng, Martin Wattenberg,
   Jacob Andreas, Yonatan Belinkov and David Bau. 
-  ICLR 2024
+  ICLR 2024.
 
   **Spotlight**.
 
