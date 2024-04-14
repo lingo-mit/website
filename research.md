@@ -85,14 +85,18 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   search.](https://arxiv.org/abs/2310.09139)
 
   Athul Paul Jacob, Yikang Shen, Gabriele Farina and Jacob Andreas. 
-  ICLR 2024 (**Spotlight**, **NeurIPS R0-FoMo workshop best paper**).
+  ICLR 2024. 
+
+  **Spotlight**, **NeurIPS R0-FoMo workshop best paper**.
 
 - [Linearity of relation decoding in transformer language
   models.](https://arxiv.org/abs/2308.09124)
 
   Evan Hernandez\*, Arnab Sen Sharma\*, Tal Haklay, Kevin Meng, Martin Wattenberg,
   Jacob Andreas, Yonatan Belinkov and David Bau. 
-  ICLR 2024 (**Spotlight**.)
+  ICLR 2024
+
+  **Spotlight**.
 
   <span class="press">
     Press:
@@ -157,7 +161,9 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 - [The clock and the pizza: Two stories in mechanistic explanation of neural networks.](https://arxiv.org/abs/2306.17844)
 
   Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
-  NeurIPS 2023 (<b>Oral</b>).
+  NeurIPS 2023.
+
+  <b>Oral</b>.
 
   <span class="press">
     Press:
@@ -189,7 +195,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
 - [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
 
-  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023 (<b>Lexical Semantics Area Award</b>).
+  Ekin Aky&uuml;rek and Jacob Andreas. ACL 2023.
+ 
+  <b>Lexical Semantics Area Award</b>.
 
   <a class="code" href="https://github.com/ekinakyurek/lexsym">code</a>
 
@@ -216,7 +224,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
 - [What learning algorithm is in-context learning? Investigations with linear models.](https://arxiv.org/abs/2211.15661)
 
-  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023 (<b>Notable Top-5% Paper</b>).
+  Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*. ICLR 2023. 
+
+  <b>Notable Top-5% Paper</b>.
 
   <span class="press">
   Press:
@@ -235,7 +245,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
 - [Mastering the game of no-press Diplomacy via human-regularized reinforcement learning and planning.](https://arxiv.org/abs/2210.05492)
 
-  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023 (<b>Notable Top-5% Paper</b>).
+  Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown. ICLR 2023.
+
+  <b>Notable Top-5% Paper</b>.
   
   <span class="press">Press: <a href="https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/">NewScientist</a></span>
   
@@ -249,7 +261,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
 - [Pre-trained language models for interactive decision-making.](https://arxiv.org/abs/2202.01771)
 
-  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*. NeurIPS 2022 (<b>Oral</b>).
+  Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*. NeurIPS 2022.
+
+  <b>Oral</b>.
 
   <a class="project" href="https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/">project page</a>
 
@@ -284,7 +298,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
   
 - [Modeling strong and human-Like gameplay with KL-regularized search.](https://arxiv.org/abs/2112.07544)
   
-  Athul Paul Jacob\*, David J. Wu\*, Gabriele Farina\*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022 (<b>Spotlight</b>).
+  Athul Paul Jacob\*, David J. Wu\*, Gabriele Farina\*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown. ICML 2022. 
+
+  <b>Spotlight</b>.
 
 - [Toward understanding the communication in sperm whales.](https://www.sciencedirect.com/science/article/pii/S2589004222006642)
 
@@ -323,7 +339,9 @@ page</a>
 - [Natural language descriptions of deep visual features.](https://arxiv.org/abs/2201.11114)
 
   Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio
-  Torralba and Jacob Andreas. ICLR 2022 (<b>Oral</b>).
+  Torralba and Jacob Andreas. ICLR 2022.
+
+  <b>Oral</b>.
 
   <span class="press">Press: <a href="https://news.mit.edu/2022/explainable-machine-learning-0127">MIT News</a></span>
   <a class="project" href="http://milan.csail.mit.edu/">project page</a>
@@ -403,7 +421,9 @@ page</a>
 
 - [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
 
-  Jesse Mu and Jacob Andreas. NeurIPS 2020 (<b>Oral</b>).
+  Jesse Mu and Jacob Andreas. NeurIPS 2020. 
+
+  <b>Oral</b>.
 
   <a class="code" href="https://github.com/jayelm/compexp">code</a>
 
