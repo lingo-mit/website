@@ -163,8 +163,6 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
     Press:
     <a href="https://www.quantamagazine.org/how-do-machines-grok-data-20240412/">Quanta</a>
   </span>
-
-
   <a class="code" href="https://github.com/fjzzq2002/pizza">code</a>
 
 - [A function interpretation benchmark for evaluating interpretability methods.](https://arxiv.org/abs/2309.03886)
