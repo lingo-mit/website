@@ -93,7 +93,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Athul Paul Jacob, Yikang Shen, Gabriele Farina and Jacob Andreas. 
   
 
-  ICLR 2024 **spotlight**, NeurIPS R0-FoMo workshop **best paper**.
+  ICLR 2024 **Spotlight**, NeurIPS R0-FoMo Workshop **Best Paper**.
 
 - [Linearity of relation decoding in transformer language
   models.](https://arxiv.org/abs/2308.09124)
@@ -101,7 +101,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Evan Hernandez\*, Arnab Sen Sharma\*, Tal Haklay, Kevin Meng, Martin Wattenberg,
   Jacob Andreas, Yonatan Belinkov and David Bau. 
 
-  ICLR 2024. **Spotlight**.
+  ICLR 2024 **Spotlight**.
 
   <span class="press">
     Press:
@@ -130,6 +130,11 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Athul Paul Jacob, Abhishek Gupta and Jacob Andreas. 
 
   ICLR 2024.
+
+  <span class="press">
+    Press:
+    <a href="https://news.mit.edu/2024/building-better-ai-helper-starts-with-modeling-irrational-behavior-0419">MIT News</a>.
+  </span>
 
 - [LILO: Learning interpretable libraries by compressing and documenting code.](https://arxiv.org/abs/2310.19791)
 
@@ -182,7 +187,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Ziming Liu\*, Ziqian Zhong\*, Max Tegmark and Jacob Andreas.
   
-  NeurIPS 2023. <b>Oral</b>.
+  NeurIPS 2023 <b>Oral</b>.
 
   <span class="press">
     Press:
@@ -217,7 +222,7 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
   Ekin Aky&uuml;rek and Jacob Andreas.
 
-  ACL 2023. <b>Lexical Semantics Area Award</b>.
+  ACL 2023 **Lexical Semantics Area Award**.
 
   <a class="code" href="https://github.com/ekinakyurek/lexsym">code</a>
 
@@ -254,7 +259,7 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
   Ekin Aky&uuml;rek, Dale Schuurmans, Jacob Andreas\*, Tengyu Ma\*, Denny Zhou\*.
 
-  ICLR 2023. <b>Notable Top-5% Paper</b>.
+  ICLR 2023 <b>Notable Top-5% Paper</b>.
 
   <span class="press">
   Press:
@@ -275,7 +280,7 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
   Anton Bakhtin\*, David J Wu\*, Adam Lerer\*, Jonathan Gray\*, Athul Paul Jacob\*, Gabriele Farina\*, Alexander H Miller, Noam Brown.
 
-  ICLR 2023. <b>Notable Top-5% Paper</b>.
+  ICLR 2023 <b>Notable Top-5% Paper</b>.
   
   <span class="press">Press: <a href="https://www.newscientist.com/article/2343027-ais-built-by-meta-beat-human-experts-at-diplomacy/">NewScientist</a></span>
   
@@ -293,7 +298,7 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
 
   Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Aky&uuml;rek, Anima Anandkumar\*, Jacob Andreas\*, Igor Mordatch\*, Antonio Torralba\*, Yuke Zhu\*.
 
-  NeurIPS 2022. <b>Oral</b>.
+  NeurIPS 2022 <b>Oral</b>.
 
   <a class="project" href="https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/">project page</a>
 
@@ -336,7 +341,7 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
   
   Athul Paul Jacob\*, David J. Wu\*, Gabriele Farina\*, Adam Lerer, Hengyuan Hu, Anton Bakhtin, Jacob Andreas, Noam Brown.
 
-  ICML 2022. <b>Spotlight</b>.
+  ICML 2022 <b>Spotlight</b>.
 
 - [Toward understanding the communication in sperm whales.](https://www.sciencedirect.com/science/article/pii/S2589004222006642)
 
@@ -385,7 +390,7 @@ page</a>
   Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio
   Torralba and Jacob Andreas.
 
-  ICLR 2022. <b>Oral</b>.
+  ICLR 2022 <b>Oral</b>.
 
   <span class="press">Press: <a href="https://news.mit.edu/2022/explainable-machine-learning-0127">MIT News</a></span>
   <a class="project" href="http://milan.csail.mit.edu/">project page</a>
@@ -489,7 +494,7 @@ page</a>
 
   Jesse Mu and Jacob Andreas.
 
-  NeurIPS 2020. <b>Oral</b>.
+  NeurIPS 2020 <b>Oral</b>.
 
   <a class="code" href="https://github.com/jayelm/compexp">code</a>
 
