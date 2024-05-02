@@ -7,10 +7,6 @@ title: Papers
 
 ### Preprints
 
-- [In-context language learning: Architectures and algorithms](https://arxiv.org/abs/2401.12973)
-
-  Ekin Aky&uuml;rek, Bailin Wang, Yoon Kim and Jacob Andreas.
-
 - [Bayesian preference elicitation with language models](https://arxiv.org/abs/2403.05534)
 
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
@@ -20,11 +16,6 @@ title: Papers
 
   Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
   Jacob Andreas.
-
-- [Decomposing uncertainty for large language models through input clarification
-  ensembling](https://arxiv.org/abs/2311.08718)
-
-  Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
 
 - [Eliciting human preferences with language models.](https://arxiv.org/abs/2310.11589)
 
@@ -45,6 +36,28 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 
 ### 2024
+
+- [In-context language learning: Architectures and algorithms](https://arxiv.org/abs/2401.12973)
+
+  Ekin Aky&uuml;rek, Bailin Wang, Yoon Kim and Jacob Andreas.
+
+  ICML 2024.
+
+- [A multimodal automated interpretability agent](https://arxiv.org/abs/2404.14394)
+
+  Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan
+  Hernandez, Jacob Andreas, Antonio Torralba.
+
+  ICML 2024.
+
+  <a class="project" href="https://multimodal-interpretability.csail.mit.edu/maia/">project page</a>
+
+- [Decomposing uncertainty for large language models through input clarification
+  ensembling](https://arxiv.org/abs/2311.08718)
+
+  Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
+
+  ICML 2024.
 
 - [Learning phonotactics from linguistic informants.](https://lingbuzz.net/lingbuzz/007903)
 
@@ -116,6 +129,11 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   ICLR 2024.
 
+  <span class="press">
+    Press:
+    <a href="https://news.mit.edu/2024/natural-language-boosts-llm-performance-coding-planning-robotics-0501">MIT News</a>
+  </span>
+
 - [Learning adaptive planning representations with natural language
   guidance](https://arxiv.org/abs/2312.08566)
 
@@ -123,6 +141,11 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas. 
 
   ICLR 2024.
+
+  <span class="press">
+    Press:
+    <a href="https://news.mit.edu/2024/natural-language-boosts-llm-performance-coding-planning-robotics-0501">MIT News</a>
+  </span>
 
 - [Modeling boundedly rational agents with latent inference
   budgets.](https://arxiv.org/abs/2312.04030)
@@ -142,6 +165,11 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   B. Tenenbaum and Jacob Andreas.
 
   ICLR 2024.
+
+  <span class="press">
+    Press:
+    <a href="https://news.mit.edu/2024/natural-language-boosts-llm-performance-coding-planning-robotics-0501">MIT News</a>
+  </span>
 
 ### 2023
 
@@ -349,7 +377,9 @@ href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neur
   Delaney, Shane Gero, Shafi Goldwasser, David F. Gruber, Sarah de Haas, Peter
   Malkin, Nikolay Pavlov, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha
   Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert
-  J. Wood. iScience, Cell Press 2022.
+  J. Wood.
+
+  iScience 2022.
 
   <span class="press">Press: <a href="https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales">The New Yorker</a></span>
 
