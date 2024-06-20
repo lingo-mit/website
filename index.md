@@ -3,6 +3,7 @@ layout: default
 title: Language & Intelligence Group @ MIT
 carousels:
   - images: 
+    - image: /assets/images/lab_photo_campfire.jpg
     - image: /assets/images/lab_photo_skiing.jpg
     - image: /assets/images/lab_photo_dinner.jpg
     - image: /assets/images/lab_photo_kayak.jpg
