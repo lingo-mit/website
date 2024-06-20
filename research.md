@@ -7,15 +7,24 @@ title: Papers
 
 ### Preprints
 
+- [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830)
+
+  Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob
+  Andreas.
+
+- [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
+
+  Megha Srivastava, C&eacute;dric Colas, Dorsa Sadigh and Jacob Andreas.
+
+- [An incomplete loop: Deductive, inductive and abductive learning in large
+  language models](https://arxiv.org/abs/2404.03028)
+
+  Emmy Liu, Graham Neubig and Jacob Andreas.
+
 - [Bayesian preference elicitation with language models](https://arxiv.org/abs/2403.05534)
 
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
-  Tamkin, Belinda Z. Li.
-
-- [Deductive closure training of language models for coherence, accuracy and updatability.](https://arxiv.org/abs/2401.08574)
-
-  Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
-  Jacob Andreas.
+  Tamkin and Belinda Z. Li.
 
 - [Eliciting human preferences with language models.](https://arxiv.org/abs/2310.11589)
 
@@ -29,13 +38,34 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Evan Hernandez, Belinda Z. Li and Jacob Andreas.
 
+<!--
 - [Language models trained on media diets can predict public
   opinion.](https://arxiv.org/abs/2303.16779)
 
   Eric Chu, Jacob Andreas, Stephen Ansolabehere and Deb Roy.
+-->
 
 
 ### 2024
+
+- [Toward in-context teaching: Adapting examples to students’ misconceptions.](https://arxiv.org/abs/2405.04495)
+
+  Alexis Ross and Jacob Andreas.
+
+  ACL 2024.
+
+- [Lexicon-level contrastive visual grounding improves language modeling.](https://arxiv.org/abs/2403.14551)
+
+  Chengxu Zhuang, Ev Fedorenko and Jacob Andreas.
+
+  ACL Findings 2024.
+
+- [Deductive closure training of language models for coherence, accuracy and updatability.](https://arxiv.org/abs/2401.08574)
+
+  Afra Feyza Aky&uuml;rek, Ekin Aky&uuml;rek, Leshem Choshen, Derry Wijaya,
+  Jacob Andreas.
+
+  ACL Findings 2024.
 
 - [In-context language learning: Architectures and algorithms](https://arxiv.org/abs/2401.12973)
 
@@ -71,7 +101,14 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   Pratyusha Sharma, Shane Gero, Roger Payne, David F. Gruber, Daniela Rus\*,
   Antonio Torralba\*, Jacob Andreas\*.
 
-  Nature Communications (in press).
+  Nature Communications 2024.
+
+  <span class="press">
+    Press:
+    <a href="https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html">New York Times</a>
+    (<a href="https://www.nytimes.com/2024/05/24/podcasts/the-daily/whales-song.html">The Daily</a> podcast),
+    <a href="https://www.washingtonpost.com/science/2024/05/07/sperm-whale-alphabet-clicks/">Washington Post</a>
+  </span>
 
 - [Regularized conventions: Equilibrium computation as a model of pragmatic
   reasoning.](https://arxiv.org/abs/2311.09712)
@@ -84,7 +121,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Chengxu Zhuang, Evelina Fedorenko and Jacob Andreas.
 
-  NAACL 2024.
+  NAACL 2024 **Best paper**. 
 
 - [Reasoning or reciting? Exploring the capabilities and limitations of language
   models through counterfactual evaluations.](https://arxiv.org/abs/2307.02477)
@@ -107,6 +144,11 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   
 
   ICLR 2024 **Spotlight**, NeurIPS R0-FoMo Workshop **Best Paper**.
+
+  <span class="press">
+    Press:
+    <a href="https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/">Quanta</a>
+  </span>
 
 - [Linearity of relation decoding in transformer language
   models.](https://arxiv.org/abs/2308.09124)
