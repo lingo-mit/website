@@ -17,11 +17,11 @@ title: Papers
   Megha Srivastava, C&eacute;dric Colas, Dorsa Sadigh and Jacob Andreas.
 
 - [An incomplete loop: Deductive, inductive and abductive learning in large
-  language models](https://arxiv.org/abs/2404.03028)
+  language models.](https://arxiv.org/abs/2404.03028)
 
   Emmy Liu, Graham Neubig and Jacob Andreas.
 
-- [Bayesian preference elicitation with language models](https://arxiv.org/abs/2403.05534)
+- [Bayesian preference elicitation with language models.](https://arxiv.org/abs/2403.05534)
 
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
   Tamkin and Belinda Z. Li.
@@ -67,13 +67,13 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   ACL Findings 2024.
 
-- [In-context language learning: Architectures and algorithms](https://arxiv.org/abs/2401.12973)
+- [In-context language learning: Architectures and algorithms.](https://arxiv.org/abs/2401.12973)
 
   Ekin Aky&uuml;rek, Bailin Wang, Yoon Kim and Jacob Andreas.
 
   ICML 2024.
 
-- [A multimodal automated interpretability agent](https://arxiv.org/abs/2404.14394)
+- [A multimodal automated interpretability agent.](https://arxiv.org/abs/2404.14394)
 
   Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan
   Hernandez, Jacob Andreas, Antonio Torralba.
@@ -83,7 +83,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   <a class="project" href="https://multimodal-interpretability.csail.mit.edu/maia/">project page</a>
 
 - [Decomposing uncertainty for large language models through input clarification
-  ensembling](https://arxiv.org/abs/2311.08718)
+  ensembling.](https://arxiv.org/abs/2311.08718)
 
   Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
 
@@ -177,7 +177,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
   </span>
 
 - [Learning adaptive planning representations with natural language
-  guidance](https://arxiv.org/abs/2312.08566)
+  guidance.](https://arxiv.org/abs/2312.08566)
 
   Lionel Wong, Jiayuan Mao, Pratyusha Sharma, Zachary S. Siegel, Jiahai Feng,
   Noa Korneev, Joshua B. Tenenbaum and Jacob Andreas. 
@@ -288,7 +288,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 href="https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/">The Atlantic</a></span>
   <a class="code" href="https://github.com/carina-kauf/perturbed-neural-nlp">code</a>
 
-- [Compositionality as lexical symmetry](https://arxiv.org/abs/2201.12926). 
+- [Compositionality as lexical symmetry.](https://arxiv.org/abs/2201.12926). 
 
   Ekin Aky&uuml;rek and Jacob Andreas.
 
@@ -490,7 +490,7 @@ page</a>
 
   EMNLP 2021.
 
-- [Toward a visual concept vocabulary for generative adversarial networks](https://arxiv.org/abs/2110.04292)
+- [Toward a visual concept vocabulary for generative adversarial networks.](https://arxiv.org/abs/2110.04292)
 
   Sarah Schwettmann, Evan Hernandez, David Bau, Samuel Klein, Jacob Andreas, Antonio Torralba.
 
@@ -537,14 +537,14 @@ page</a>
 
   <a class="code" href="https://github.com/ekinakyurek/lexical">code</a>
 
-- [Multitasking inhibits semantic drift](https://arxiv.org/abs/2104.07219).
+- [Multitasking inhibits semantic drift.](https://arxiv.org/abs/2104.07219).
 
   Athul Paul Jacob, Mike Lewis and Jacob Andreas.
 
   NAACL 2021.
 
 - [Representing partial programs with blended abstract
-  semantics](https://arxiv.org/abs/2012.12964).
+  semantics.](https://arxiv.org/abs/2012.12964).
 
   Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum,
   Armando Solar-Lezama.
@@ -552,7 +552,7 @@ page</a>
   ICLR 2021.
 
 - [Learning to recombine and resample data for compositional
-  generalization](https://arxiv.org/abs/2010.03706).
+  generalization.](https://arxiv.org/abs/2010.03706).
 
   Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas.
 
@@ -562,7 +562,7 @@ page</a>
 
 ### 2020
 
-- [Compositional explanations of neurons](https://arxiv.org/abs/2006.14032).
+- [Compositional explanations of neurons.](https://arxiv.org/abs/2006.14032).
 
   Jesse Mu and Jacob Andreas.
 
@@ -579,7 +579,7 @@ page</a>
 
   <a class="code" href="https://github.com/LauraRuis/groundedSCAN">code</a>
 
-- [Good-Enough Compositional Data Augmentation](
+- [Good-enough compositional data augmentation.](
   https://arxiv.org/abs/1904.09545).
 
   Jacob Andreas.
@@ -589,7 +589,7 @@ page</a>
   <a class="code" href="https://github.com/jacobandreas/geca">code</a>
 
 - [Unnatural language processing: bridging the gap between synthetic and natural
-  language data](https://arxiv.org/abs/2004.13645).
+  language data.](https://arxiv.org/abs/2004.13645).
 
   Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas.
 
@@ -597,7 +597,7 @@ page</a>
 
 ### 2019
 
-- [A survey of reinforcement learning informed by natural language](
+- [A survey of reinforcement learning informed by natural language.](
   https://arxiv.org/abs/1906.03926).
 
   Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob Foerster, Jacob
@@ -605,7 +605,7 @@ page</a>
 
   IJCAI 2019.
 
-- [Measuring compositionality in representation learning](
+- [Measuring compositionality in representation learning.](
   https://arxiv.org/abs/1902.07181).
 
   Jacob Andreas.
