@@ -537,14 +537,14 @@ page</a>
 
   <a class="code" href="https://github.com/ekinakyurek/lexical">code</a>
 
-- [Multitasking inhibits semantic drift.](https://arxiv.org/abs/2104.07219).
+- [Multitasking inhibits semantic drift.](https://arxiv.org/abs/2104.07219)
 
   Athul Paul Jacob, Mike Lewis and Jacob Andreas.
 
   NAACL 2021.
 
 - [Representing partial programs with blended abstract
-  semantics.](https://arxiv.org/abs/2012.12964).
+  semantics.](https://arxiv.org/abs/2012.12964)
 
   Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum,
   Armando Solar-Lezama.
@@ -552,7 +552,7 @@ page</a>
   ICLR 2021.
 
 - [Learning to recombine and resample data for compositional
-  generalization.](https://arxiv.org/abs/2010.03706).
+  generalization.](https://arxiv.org/abs/2010.03706)
 
   Ekin Aky&uuml;rek, Afra Feyza Aky&uuml;rek and Jacob Andreas.
 
@@ -562,7 +562,7 @@ page</a>
 
 ### 2020
 
-- [Compositional explanations of neurons.](https://arxiv.org/abs/2006.14032).
+- [Compositional explanations of neurons.](https://arxiv.org/abs/2006.14032)
 
   Jesse Mu and Jacob Andreas.
 
@@ -580,7 +580,7 @@ page</a>
   <a class="code" href="https://github.com/LauraRuis/groundedSCAN">code</a>
 
 - [Good-enough compositional data augmentation.](
-  https://arxiv.org/abs/1904.09545).
+  https://arxiv.org/abs/1904.09545)
 
   Jacob Andreas.
 
@@ -589,7 +589,7 @@ page</a>
   <a class="code" href="https://github.com/jacobandreas/geca">code</a>
 
 - [Unnatural language processing: bridging the gap between synthetic and natural
-  language data.](https://arxiv.org/abs/2004.13645).
+  language data.](https://arxiv.org/abs/2004.13645)
 
   Alana Marzoev, Sam Madden, Frans Kaashoek, Mike Cafarella and Jacob Andreas.
 
@@ -598,7 +598,7 @@ page</a>
 ### 2019
 
 - [A survey of reinforcement learning informed by natural language.](
-  https://arxiv.org/abs/1906.03926).
+  https://arxiv.org/abs/1906.03926)
 
   Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob Foerster, Jacob
   Andreas, Edward Grefenstette, Shimon Whiteson and Tim Rocktäschel.
@@ -606,7 +606,7 @@ page</a>
   IJCAI 2019.
 
 - [Measuring compositionality in representation learning.](
-  https://arxiv.org/abs/1902.07181).
+  https://arxiv.org/abs/1902.07181)
 
   Jacob Andreas.
 
