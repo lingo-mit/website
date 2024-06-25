@@ -10,7 +10,7 @@ title: Papers
 - [Elements of World Knowledge (EWoK): A cognition-inspired framework for
   evaluating basic world knowledge in language models](https://arxiv.org/abs/2405.09605)
 
-  Anna A. Ivanova, Aalok Sathe, Benjamin Lipkin, Unnathi Kumar, Setayesh
+  Anna A. Ivanova\*, Aalok Sathe\*, Benjamin Lipkin\*, Unnathi Kumar, Setayesh
   Radkani, Thomas H. Clark, Carina Kauf, Jennifer Hu, R.T. Pramod, Gabriel Grand,
   Vivian Paulun, Maria Ryskina, Ekin Akyürek, Ethan Wilcox, Nafisa Rashid, Leshem
   Choshen, Roger Levy, Evelina Fedorenko, Joshua Tenenbaum and Jacob Andreas.
