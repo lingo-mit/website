@@ -7,6 +7,16 @@ title: Papers
 
 ### Preprints
 
+- [Elements of World Knowledge (EWoK): A cognition-inspired framework for
+  evaluating basic world knowledge in language models](https://arxiv.org/abs/2405.09605)
+
+  Anna A. Ivanova, Aalok Sathe, Benjamin Lipkin, Unnathi Kumar, Setayesh
+  Radkani, Thomas H. Clark, Carina Kauf, Jennifer Hu, R.T. Pramod, Gabriel Grand,
+  Vivian Paulun, Maria Ryskina, Ekin Akyürek, Ethan Wilcox, Nafisa Rashid, Leshem
+  Choshen, Roger Levy, Evelina Fedorenko, Joshua Tenenbaum and Jacob Andreas.
+
+  <a class="project" href="https://ewok-core.github.io/">project page</a>
+
 - [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830)
 
   Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob
