@@ -97,7 +97,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   Bairu Hou, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang and Yang Zhang.
 
-  ICML 2024.
+  ICML 2024 <b>Oral</b>.
 
 - [Learning phonotactics from linguistic informants.](https://lingbuzz.net/lingbuzz/007903)
 
