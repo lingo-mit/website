@@ -26,11 +26,6 @@ title: Papers
 
   Megha Srivastava, C&eacute;dric Colas, Dorsa Sadigh and Jacob Andreas.
 
-- [An incomplete loop: Deductive, inductive and abductive learning in large
-  language models.](https://arxiv.org/abs/2404.03028)
-
-  Emmy Liu, Graham Neubig and Jacob Andreas.
-
 - [Bayesian preference elicitation with language models.](https://arxiv.org/abs/2403.05534)
 
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
@@ -43,10 +38,6 @@ title: Papers
   <span class="press">Press: <a
 href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-asking-us-questions/">VentureBeat</a></span>
 
-- [Inspecting and editing knowledge representations in language
-  models.](https://arxiv.org/abs/2304.00740)
-
-  Evan Hernandez, Belinda Z. Li and Jacob Andreas.
 
 <!--
 - [Language models trained on media diets can predict public
@@ -57,6 +48,26 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 
 ### 2024
+
+- [Inspecting and editing knowledge representations in language
+  models.](https://arxiv.org/abs/2304.00740)
+
+  Evan Hernandez, Belinda Z. Li and Jacob Andreas.
+
+  COLM 2024.
+
+- [An incomplete loop: Deductive, inductive and abductive learning in large
+  language models.](https://arxiv.org/abs/2404.03028)
+
+  Emmy Liu, Graham Neubig and Jacob Andreas.
+
+  COLM 2024.
+
+- Unforgettable generalization in language models.
+
+  Eric Chu, Leshem Choshen and Jacob Andreas.
+
+  COLM 2024.
 
 - [Toward in-context teaching: Adapting examples to students’ misconceptions.](https://arxiv.org/abs/2405.04495)
 
