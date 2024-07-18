@@ -60,6 +60,13 @@ title: People
     Alexis Ross
     </a>
   </li> 
+
+  <li>
+    <a href="https://damanimehul.github.io/">
+    <img src="assets/images/mehul.jpg">
+    Mehul Damani
+    </a>
+  </li>
 </ul>
 
 ## Postdocs 
