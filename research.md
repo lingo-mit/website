@@ -65,7 +65,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 - Unforgettable generalization in language models.
 
-  Eric Chu, Leshem Choshen and Jacob Andreas.
+  Eric Zhang, Leshem Choshen and Jacob Andreas.
 
   COLM 2024.
 
