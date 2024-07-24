@@ -13,12 +13,6 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://evandez.com/">
-    <img src="assets/images/evan.jpg">
-    Evan Hernandez
-    </a>
-  </li>
-  <li>
     <a href="https://apjacob.me/">
     <img src="assets/images/apjacob.jpg">
     Athul Paul Jacob
@@ -98,14 +92,11 @@ title: People
     Eric Zhang
   </li>
   <li>
-    Jason Lee
+    Sebastian Zhu
   </li>
-  <li>
-    Ziqian Zhong
-  </li>
-  <li>
+  <!--<li>
     Rishab Parthasarathy
-  </li>
+  </li>-->
 </ul>
 
 ## Friends & Visitors
@@ -155,6 +146,9 @@ title: People
 ## Alumni
 
 <ul class="people">
+<li>Evan Hernandez (PhD)</li>
+<li>Jason Lee (MEng)</li>
+<li>Ziqian Zhong (SB)</li>
 <li>Anna Ivanova (Postdoc)</li>
 <li>William Chen (SB)</li>
 <li>Kevin Liu (MEng)</li>
@@ -168,7 +162,6 @@ title: People
 <li>Nafisa Rashid (SB, Wellesley)</li>
 <li>Anjali Kantharuban (SB, UC Berkeley)</li>
 <li>Teona Bagashvili (SB, Allegheny College)</li>
-<li>Alana Marzoev (PhD)</li>
 <li>Joe O'Connor (MEng)</li>
 <li>Anthony Bau (MEng)</li>
 <li>Nitya Parthasarathy (SB)</li>
