@@ -22,6 +22,10 @@ a {
   color: #021a83;
 }
 
+.blog a {
+  text-decoration: underline;
+}
+
 a:hover {
   /*color: #171F69;*/
   color: #0433ff;
@@ -38,7 +42,7 @@ h1, h2 {
   font-weight: normal;
 }
 
-h2, h3 {
+h1, h2, h3 {
   margin-bottom: 1em;
 }
 
@@ -98,6 +102,10 @@ li p {
   max-width: 1024px;
 }
 
+#content.blog {
+  max-width: 768px;
+}
+
 #content img {
   width: 100%;
   border-radius: 5px;
@@ -124,7 +132,7 @@ ul.people li {
 
 p {
   margin-bottom: 1em;
-  text-align: justify;
+  text-align: left;
 }
 
 #content ul.paper-highlights {
@@ -182,6 +190,16 @@ span.press a {
   border-left: 2px solid #eee;
 }
 
+#content.blog .aside {
+  width: 220px;
+  font-size: 14px;
+  float: right;
+  margin-right: -240px;
+  transform: translateY(-100%);
+  margin-top: -1.2em;
+  text-align: left;
+}
+
 @media (max-width: 1024px) {
   #content {
     margin: 1em;
@@ -216,6 +234,15 @@ span.press a {
     display: inline-block;
     font-size: 25px;
     margin-right: .5em;
+  }
+
+  #content.blog .aside {
+    font-size: 14px;
+    float: none;
+    padding-left: 1em;
+    padding-top: 1em;
+    width: 100%;
+    transform: none;
   }
 }
 
