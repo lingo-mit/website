@@ -5,6 +5,9 @@ title: Language Models, World Models, and Human Model-Building
 
 # Language Models, World Models, and Human Model-Building
 
+<i>Jacob Andreas <br>
+26 July 2024</i>
+
 Does the computation performed by language models involve real language
 understanding, or just string manipulation?
 
