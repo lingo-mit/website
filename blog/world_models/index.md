@@ -45,18 +45,15 @@ One of the biggest consequences of all this is that the community has started
 asking a better version of the Big Question: do LMs have internal **world models**?
 
 Concretely: do text-generation models represent situations and possible worlds
-described by text, and determine what to generate by consulting these
-representations to determine what might happen next? Do video-generation models
-build representations of the latent 3-D geometry of scenes, and the laws of
-physics, and predict future frames by evolving these geometric representations
-forward in time? More generally, do neural sequence predictors _encode and
-recapitulate
- the real causal process_ in the outside world that generated their data? Or do
-they do
-what they do by shuffling words and pixels around without ever passing through
-an intermediate representation or computation that looks like the one
-taking
-place in the outside world?
+described by text, and consult these representations to determine what might
+happen next? Do video-generation models build representations of the laws of
+physics and the latent 3-D geometry of scenes, and predict future frames by
+evolving these geometric representations forward in time? More generally, do
+neural sequence predictors _encode and recapitulate the real causal process_ in
+the outside world that generated their data? Or do they do what they do by
+shuffling words and pixels around without ever passing through an intermediate
+representation or computation that looks like the one taking place in the
+outside world?
 
 At a first glance this seems like an easier question to answer.  "Is the hidden
 representation _h_ a representation of meaning?" is an abstruse problem for
@@ -97,7 +94,7 @@ this system in several different ways:
 <p class="aside">Until the age of about six I ate all of my meals off of a placemat that looked
 just like this. <br> [Image credit: NASA.] </p>
 
-This image is a model of the solar system: specifically, a member of the class
+This image is a  member of the class
 of very simple models we call **maps**.  It takes a massive, complicated,
 dynamic collection of bodies, and hides most of the information about their
 current state, and all of the information about how this state changes over time.  (Is
@@ -113,7 +110,7 @@ answers to
 every possible question we could ask, but instead a comparatively
 low-dimensional representation of the underlying system that generates answers
 to those questions, and from which answers can be easily computed with a little
-bit of work.
+bit of extra work.
 
 ### Model 2: The orrery
 
@@ -123,9 +120,9 @@ bit of work.
 
 Here's another model of the solar system---an **orrery**. Like the map, it shows
 the relative locations of the planets (now in 3D!). Unlike the map, it is
-_dynamic_: I can ask about those relative positions, not just at some fixed
-moment in time, but at arbitrary points in the past or future, by turning a
-little crank [not pictured] and evolving the system forward or backward in time.
+_dynamic_: I can ask about those relative positions, not just at some fixed, but
+at arbitrary points in the past or future, by turning a little crank [not
+pictured] and evolving the system forward or backward in time.
 With this
 model, we can answer conditional questions like "where will Jupiter be in
 three years?", "where will Jupiter be during the next lunar eclipse?", or "how
@@ -303,50 +300,42 @@ resolution" when making interpretability claims.
 
 Maybe the most important lesson from these examples is that we shouldn't expect
 an LM to have one world model, but many---this way, for example, they can store
-knowledge
-statically in their parameters, but still reason in-context about information
-that contradicts these parameters. Different ways of interacting with LMs may,
-in general, invoke different models. So, in a question answering task, we might
-be accessing different world models depending on whether we’re inspecting
-parameters, training a probe, or reading an LM's generated text. When answer
-conditional questions, 
-we might be _manipulating_ different world models depending on whether we’re
-specifying
-our conditional or counterfactual via fine-tuning, low-rank
-editing or via a textual prompt. In fact, I suspecting most of the
-hand-wringing about the failure of parameter editing to produce globally
-consistent outputs involves a model misidentification error of this type: we're
-using
-map-manipulation techniques while trying to answer simulator-type questions.
-Model editing techniques that actually work (RAG and context distillation)
-clearly do so via a different interface that does invoke a counterfactual-level
-model, even
-though we don't know how that model works. 
+knowledge statically in their parameters, but still reason in-context about
+information that contradicts these parameters. Different ways of interacting
+with LMs may, in general, invoke different models. So, in a question answering
+task, we might be accessing different world models depending on whether we’re
+inspecting parameters, training a probe, or reading an LM's generated text. When
+answering conditional questions, we might be _manipulating_ different world
+models depending on whether we’re specifying our conditional or counterfactual
+via fine-tuning, low-rank editing or via a textual prompt. In fact, I suspecting
+most of the hand-wringing about the failure of parameter editing to produce
+globally consistent outputs involves a model misidentification error of this
+type: we're using map-manipulation techniques while trying to answer
+simulator-type questions.  Model editing techniques that actually work (RAG and
+context distillation) clearly do so via a different interface that invokes
+counterfactual-level model, even though we don't know how that model operates. 
 
 If you expect a language model to derive all of its answers from a single,
 monolithic, coherent internal model of the outside world, all the behavior
-described above 
-is evidence that this world model doesn't exist.  But it's increasingly clear
-that we should really
-conceptualize LMs (at least today's) as collections of competing mechanisms---a
-knowledge retrieval circuit voting against a copying circuit voting against an
-n-gram model. And this is for a good reason! Maps are much easier to configure
-and
-read than simulators, and if LMs couldn't use them at least occasionally they'd
-never get anything done with a single forward pass. (Do you re-simulate the
-entire history 
-of the universe whenever someone asks what your birthday is?)
+described above is evidence that this world model doesn't exist.  But it's
+increasingly clear that we should really conceptualize LMs (at least today's) as
+collections of competing mechanisms---a knowledge retrieval circuit voting
+against a copying circuit voting against an n-gram model. And this is for a good
+reason! Maps are much easier to configure and read than simulators, and if LMs
+couldn't use them at least occasionally they'd never get anything done with a
+single forward pass. (Do you re-simulate the entire history of the universe
+whenever someone asks what your birthday is?)
 
-As a final point, I want to stress that the discussion above says nothing at
-all about how LMs
-_use_ their internal world models. It’s entirely possible to imagine an LM that
-possesses a “world model” that we can query, manipulate, etc., and which
-nevertheless has no relationship at all to the LM’s own generated text. (Perhaps
-the outputs of the world model don’t feed back into next-token prediction, or
-are always overridden by some other prediction mechanism). The extreme version
-of this scenario is a little far-fetched---world models cannot arise in any
-other way than as a byproduct of learning to do text generation---but that doesn't
-imply that LMs "say" everything that internal world models predict.
+As a final point, I want to stress that the discussion above says nothing at all
+about how LMs _use_ their internal world models. It’s entirely possible to
+imagine an LM that possesses a “world model” that we can query, manipulate,
+etc., and which nevertheless has no relationship at all to the LM’s own
+generated text. (Perhaps the outputs of the world model don’t feed back into
+next-token prediction, or are always overridden by some other prediction
+mechanism). The extreme version of this scenario is a little far-fetched---world
+models cannot arise in any other way than as a byproduct of learning to do text
+generation---but that doesn't imply that LMs "say" everything that internal
+world models predict.
 
 ## Toward better world models, and better language models
 
@@ -367,8 +356,8 @@ knowledge sources and sensors, bypassing “fine-tuning” altogether.
 
 _Thanks to Yonatan Belinkov, David Bau, Gabe Grand, Charles Jin, Belinda Li and
 Martin Wattenberg for comments on an early draft of this post, and to Ekin
-Aky&uuml;rek, Noah Goodman, Josh Tenenbaum and Lio Wong for other helpful
-discussions on this subject. Thanks also to Shiry Ginosar and other organizers
-of the the Simons Institute Workshop on Understanding Higher-Level Intelligence,
-where many of these discussions took place._
+Aky&uuml;rek, Noah Goodman, Josh Tenenbaum and Lio Wong, as well as Shiry
+Ginosar and other participants in the the Simons Institute Workshop on
+Understanding Higher-Level Intelligence, for many useful discussions on this
+subject over the last few months._
 

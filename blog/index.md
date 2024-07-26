@@ -1,6 +1,11 @@
 ---
-layout: default
-title: Language & Intelligence Group @ MIT
+layout: blog
+title: Blog
 ---
 
-[Notes on Teaching GPT-3 Adding Numbers, Ekin Akyürek and Afra Feyza Akyürek, 2022](arithmetic_gpt3/index.html)
+# Posts
+
+[Language Models, World Models, and Human Model-Building](world_models)
+
+[Notes on Teaching GPT-3 Adding Numbers, Ekin Akyürek and Afra Feyza Akyürek](arithmetic_gpt3/index.html)
+
