@@ -356,7 +356,7 @@ knowledge sources and sensors, bypassing “fine-tuning” altogether.
 
 ---
 
-_Thanks to Yonatan Belinkov, David Bau, Gabe Grand, Charles Jin, Belinda Li and
+_Thanks to David Bau, Yonatan Belinkov, Gabe Grand, Charles Jin, Belinda Li and
 Martin Wattenberg for comments on an early draft of this post, and to Ekin
 Aky&uuml;rek, Noah Goodman, Josh Tenenbaum and Lio Wong, as well as Shiry
 Ginosar and other participants in the the Simons Institute Workshop on
