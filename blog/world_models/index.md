@@ -270,9 +270,9 @@ that are worth saying a little more about:
   
 ### Coherence
 
-Even some very large models are happy to label both of the following sentences
+Even some very large models are happy to label [both of the following sentences
 as
-true [https://arxiv.org/abs/2109.01653:
+true](https://arxiv.org/abs/2109.01653):
 
 > (1) U.S. Route 1 connects New York to Florida. <br>
 > (2) U.S. Route 1 connects New York to California.
