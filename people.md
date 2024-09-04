@@ -13,12 +13,6 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://apjacob.me/">
-    <img src="assets/images/apjacob.jpg">
-    Athul Paul Jacob
-    </a>
-  </li>
-  <li>
     <a href="https://pratyushasharma.github.io/">
     <img src="assets/images/pratyusha.jpg">
     Pratyusha Sharma
@@ -43,22 +37,21 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
-    <img src="assets/images/lio.png">
-    Lionel Wong
-    </a>
-  </li>
-  <li>
     <a href="https://alexisjihyeross.github.io/">
     <img src="assets/images/alexis.jpg">
     Alexis Ross
     </a>
   </li> 
-
   <li>
     <a href="https://damanimehul.github.io/">
     <img src="assets/images/mehul.jpg">
     Mehul Damani
+    </a>
+  </li>
+  <li>
+    <a href="https://www.alanamarzoev.com/">
+    <img src="https://images.squarespace-cdn.com/content/v1/59b326d649fc2b50d07ddc90/1585763893142-TXBESI01LDAKPMB74BN1/headshot.JPG?format=2500w">
+    Alana Marzoev
     </a>
   </li>
 </ul>
@@ -66,12 +59,6 @@ title: People
 ## Postdocs 
 
 <ul class="people">
-  <li>
-    <a href="https://chengxuz.github.io/">
-    <img src="assets/images/chengxu.jpg">
-    Chengxu Zhang 
-    </a>
-  </li>
   <li>
     <a href="https://ccolas.github.io">
     <img src="assets/images/cedric.jpeg">
@@ -146,6 +133,9 @@ title: People
 ## Alumni
 
 <ul class="people">
+<li>Chengxu Zhuang (Postdoc)</li>
+<li>Athul Paul Jacob (PhD)</li>
+<li>Lionel Wong (PhD, BCS)</li>
 <li>Evan Hernandez (PhD)</li>
 <li>Jason Lee (MEng)</li>
 <li>Ziqian Zhong (SB)</li>
