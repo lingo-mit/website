@@ -54,6 +54,12 @@ title: People
     Alana Marzoev
     </a>
   </li>
+  <li>
+    <a href="https://morrisyau.com">
+    <img src="https://i0.wp.com/morrisyau.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-07-at-11.35.36-AM-edited.png?w=1260&ssl=1">
+    Morris Yau
+    </a>
+  </li>
 </ul>
 
 ## Postdocs 
@@ -75,39 +81,16 @@ title: People
 
 ## MEngs and undergrads
 <ul class="people">
-  <li>
-    Eric Zhang
-  </li>
-  <li>
-    Sebastian Zhu
-  </li>
-  <!--<li>
-    Rishab Parthasarathy
-  </li>-->
+  <li>Eric Zhang</li>
+  <li>Sebastian Zhu</li>
+  <li>Muxin Liu</li>
+  <li>Reece Shuttleworth</li>
+  <li>Riddhi Bhabwat</li>
+  <li>Nolan Clement</li>
+  <li>Jen ben Arye</li>
 </ul>
 
 ## Friends & Visitors
-
-<ul class="people">
-  <li>
-    <a href="https://feyzaakyurek.github.io/">
-    <img src="assets/images/feyza.jpeg">
-    Feyza Aky&uuml;rek
-    </a>
-  </li>
-  <li>
-    <a href="https://nightingal3.github.io/">
-    <img src="assets/images/emmy.jpeg">
-    Emmy Liu
-    </a>
-  </li>
-  <li>
-    <a href="https://web.stanford.edu/~meghas/">
-    <img src="assets/images/megha.jpeg">
-    Megha Srivastava
-    </a>
-  </li>
-</ul>
 
 ## Admin
 
@@ -133,6 +116,10 @@ title: People
 ## Alumni
 
 <ul class="people">
+<li>Yuka Machino (SB)</li>
+<li>Feyza Aky&uuml;rek (PhD, BU)</li>
+<li>Megha Srivastava (PhD, Stanford)</li>
+<li>Emmy Liu (PhD, CMU)</li>
 <li>Chengxu Zhuang (Postdoc)</li>
 <li>Athul Paul Jacob (PhD)</li>
 <li>Lionel Wong (PhD, BCS)</li>

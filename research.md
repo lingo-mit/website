@@ -49,6 +49,27 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
 ### 2024
 
+- [Algorithmic capabilities of random transformers.](https://arxiv.org/abs/2410.04368)
+
+  Ziqian Zhong and Jacob Andreas.
+
+  NeurIPS, 2024.
+
+- [Generative AI in the era of “alternative
+  facts”.](https://arxiv.org/abs/2410.09949)
+
+  Saadia Gabriel, Liang Lyu, James Siderius, Marzyeh Ghassemi, Jacob Andreas, Asu Ozdaglar.
+
+  EMNLP 2024.
+
+- [Adaptive language-guided abstraction from contrastive
+  explanations.](https://arxiv.org/abs/2409.08212)
+
+  Andi Peng, Belinda Z. Li, Ilia Sucholutsky, Nishanth Kumar, Julie Shah, Jacob
+  Andreas and Andreea Bobu.
+
+  CoRL 2024.
+
 - [Inspecting and editing knowledge representations in language
   models.](https://arxiv.org/abs/2304.00740)
 
