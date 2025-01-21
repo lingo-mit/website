@@ -85,7 +85,7 @@ title: People
   <li>Sebastian Zhu</li>
   <li>Muxin Liu</li>
   <li>Reece Shuttleworth</li>
-  <li>Riddhi Bhabwat</li>
+  <li>Riddhi Bhagwat</li>
   <li>Nolan Clement</li>
   <li>Jen ben Arye</li>
 </ul>
